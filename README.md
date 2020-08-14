@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
+- [About the stationery pad feature in Finder](https://til.codeinthehole.com/posts/about-the-stationery-pad-feature-in-finder/) on 2020-08-14
 - [About `pngcrush`](https://til.codeinthehole.com/posts/about-pngcrush/) on 2020-08-14
 - [Asana has some magic search terms](https://til.codeinthehole.com/posts/asana-has-some-magic-search-terms/) on 2020-08-12
 - [You can have SASS asset pipelines in Hugo](https://til.codeinthehole.com/posts/you-can-have-sass-asset-pipelines-in-hugo/) on 2020-08-11
@@ -18,4 +19,3 @@ I learnt...
 - [Renaming a Terraform module is dangerous](https://til.codeinthehole.com/posts/renaming-a-terraform-module-leads-to-resource-recreation/) on 2020-07-23
 - [Where authentication for the `ubuntu` user on a EC2 instance is defined](https://til.codeinthehole.com/posts/about-passwordless-users-in-ec2/) on 2020-07-22
 - [About the phrase "Parking downhill"](https://til.codeinthehole.com/posts/park-downhill/) on 2020-07-21
-- [About Alfred's clipboard history feature](https://til.codeinthehole.com/posts/alfred-clipboard-history/) on 2020-07-20
