@@ -11,11 +11,11 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
-- [About Vim's `:diffthis` command](https://til.codeinthehole.com/posts/about-vims-command/) on 2020-08-17
+- [About `:help macvim`](https://til.codeinthehole.com/posts/about-help-macvim/) on 2020-08-17
+- [About Vim's `:diffthis` command](https://til.codeinthehole.com/posts/about-vims-diffthis-command/) on 2020-08-17
 - [About the stationery pad feature in Finder](https://til.codeinthehole.com/posts/about-the-stationery-pad-feature-in-finder/) on 2020-08-14
 - [About `pngcrush`](https://til.codeinthehole.com/posts/about-pngcrush/) on 2020-08-14
 - [Asana has some magic search terms](https://til.codeinthehole.com/posts/asana-has-some-magic-search-terms/) on 2020-08-12
 - [You can have SASS asset pipelines in Hugo](https://til.codeinthehole.com/posts/you-can-have-sass-asset-pipelines-in-hugo/) on 2020-08-11
 - [About text fragments](https://til.codeinthehole.com/posts/about-text-fragments/) on 2020-08-10
 - [Renaming a Terraform module is dangerous](https://til.codeinthehole.com/posts/renaming-a-terraform-module-leads-to-resource-recreation/) on 2020-07-23
-- [Where authentication for the `ubuntu` user on a EC2 instance is defined](https://til.codeinthehole.com/posts/about-passwordless-users-in-ec2/) on 2020-07-22
