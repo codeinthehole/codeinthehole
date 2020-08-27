@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
+- [OpenDNS provide free porn-blocking DNS servers](https://til.codeinthehole.com/posts/opendns-provide-free-pornblocking-dns-servers/) on 2020-08-27
 - [AWS Availability Zones have counter-intuitive IDs](https://til.codeinthehole.com/posts/aws-availability-zones-have-counterintuitive-ids/) on 2020-08-25
 - [You can rate-limit issues using a Sentry DSN](https://til.codeinthehole.com/posts/you-can-ratelimit-issues-using-a-sentry-dsn/) on 2020-08-24
 - [How to list pages with matching tag in Hugo](https://til.codeinthehole.com/posts/how-to-list-pages-with-matching-tag-in-hugo/) on 2020-08-17
@@ -18,4 +19,3 @@ I learnt...
 - [About Vim's `:diffthis` command](https://til.codeinthehole.com/posts/about-vims-diffthis-command/) on 2020-08-17
 - [About the stationery pad feature in Finder](https://til.codeinthehole.com/posts/about-the-stationery-pad-feature-in-finder/) on 2020-08-14
 - [About `pngcrush`](https://til.codeinthehole.com/posts/about-pngcrush/) on 2020-08-14
-- [Asana has some magic search terms](https://til.codeinthehole.com/posts/asana-has-some-magic-search-terms/) on 2020-08-12
