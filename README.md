@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
+- [How to configure Alfred's Bear workflow to open notes in the main window](https://til.codeinthehole.com/posts/how-to-configure-alfreds-bear-workflow-to-open-notes-in-the-main-window/) on 2020-09-02
 - [About better YAML file folding in Vim](https://til.codeinthehole.com/posts/about-better-yaml-file-folding-in-vim/) on 2020-08-28
 - [OpenDNS provide free porn-blocking DNS servers](https://til.codeinthehole.com/posts/opendns-provide-free-pornblocking-dns-servers/) on 2020-08-27
 - [AWS Availability Zones have counter-intuitive IDs](https://til.codeinthehole.com/posts/aws-availability-zones-have-counterintuitive-ids/) on 2020-08-25
@@ -18,4 +19,3 @@ I learnt...
 - [How to list pages with matching tag in Hugo](https://til.codeinthehole.com/posts/how-to-list-pages-with-matching-tag-in-hugo/) on 2020-08-17
 - [About `:help macvim`](https://til.codeinthehole.com/posts/about-help-macvim/) on 2020-08-17
 - [About Vim's `:diffthis` command](https://til.codeinthehole.com/posts/about-vims-diffthis-command/) on 2020-08-17
-- [About the stationery pad feature in Finder](https://til.codeinthehole.com/posts/about-the-stationery-pad-feature-in-finder/) on 2020-08-14
