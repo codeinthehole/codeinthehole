@@ -47,7 +47,7 @@ def fetch_til_posts(url: str, max_entries: int = 8):
 if __name__ == "__main__":
     contents = generate_readme_contents(
         blog_sitemap_url="https://codeinthehole.com/index.xml",
-        til_sitemap_url="https://til.codeinthehole.com/index.xml",
+        til_sitemap_url="https://til.codeinthehole.com/posts/index.xml",
     )
 
     print(contents)
