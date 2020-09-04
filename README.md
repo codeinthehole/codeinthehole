@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
+- [Python 3.7 supports postponed evaluation of annotations](https://til.codeinthehole.com/posts/python-37-supports-postponed-evaluation-of-annotations/) on 2020-09-04
 - [Vim doesn't create the persistent undo folder automatically](https://til.codeinthehole.com/posts/vim-doesnt-create-the-persistent-undo-folder-automatically/) on 2020-09-04
 - [How to use type annotations with Python's `csv` module](https://til.codeinthehole.com/posts/how-to-typecheck-csv-objects-in-python/) on 2020-09-03
 - [How to configure Alfred's Bear workflow to open notes in the main window](https://til.codeinthehole.com/posts/how-to-configure-alfreds-bear-workflow-to-open-notes-in-the-main-window/) on 2020-09-02
@@ -18,4 +19,3 @@ I learnt...
 - [OpenDNS provide free porn-blocking DNS servers](https://til.codeinthehole.com/posts/opendns-provide-free-pornblocking-dns-servers/) on 2020-08-27
 - [AWS Availability Zones have counter-intuitive IDs](https://til.codeinthehole.com/posts/aws-availability-zones-have-counterintuitive-ids/) on 2020-08-25
 - [You can rate-limit issues using a Sentry DSN](https://til.codeinthehole.com/posts/you-can-ratelimit-issues-using-a-sentry-dsn/) on 2020-08-24
-- [How to list pages with matching tag in Hugo](https://til.codeinthehole.com/posts/how-to-list-pages-with-matching-tag-in-hugo/) on 2020-08-17
