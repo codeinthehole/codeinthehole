@@ -11,4 +11,4 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
-- [Posts](https://til.codeinthehole.com/posts/) on 2020-09-03
+- [Posts](https://til.codeinthehole.com/posts/) on 2020-09-04
