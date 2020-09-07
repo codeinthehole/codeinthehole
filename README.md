@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
+- [You can display the typed text in Alfred in a huge typeface](https://til.codeinthehole.com/posts/you-can-display-the-typed-text-in-alfred-in-a-huge-typeface/) on 2020-09-07
 - [Python 3.7 supports postponed evaluation of annotations](https://til.codeinthehole.com/posts/python-37-supports-postponed-evaluation-of-annotations/) on 2020-09-04
 - [Vim doesn't create the persistent undo folder automatically](https://til.codeinthehole.com/posts/vim-doesnt-create-the-persistent-undo-folder-automatically/) on 2020-09-04
 - [How to use type annotations with Python's `csv` module](https://til.codeinthehole.com/posts/how-to-typecheck-csv-objects-in-python/) on 2020-09-03
@@ -18,4 +19,3 @@ I learnt...
 - [About better YAML file folding in Vim](https://til.codeinthehole.com/posts/about-better-yaml-file-folding-in-vim/) on 2020-08-28
 - [OpenDNS provide free porn-blocking DNS servers](https://til.codeinthehole.com/posts/opendns-provide-free-pornblocking-dns-servers/) on 2020-08-27
 - [AWS Availability Zones have counter-intuitive IDs](https://til.codeinthehole.com/posts/aws-availability-zones-have-counterintuitive-ids/) on 2020-08-25
-- [You can rate-limit issues using a Sentry DSN](https://til.codeinthehole.com/posts/you-can-ratelimit-issues-using-a-sentry-dsn/) on 2020-08-24
