@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
+- [Vim recommends using Emacs-style key bindings in command mode](https://til.codeinthehole.com/posts/vim-recommends-using-emacsstyle-key-bindings-in-command-mode/) on 2020-09-16
 - [How to conditionally include items in a Terraform list](https://til.codeinthehole.com/posts/how-to-conditionally-include-items-in-a-terraform-list/) on 2020-09-15
 - [You can change the font in Slack with `/slackfont $font`](https://til.codeinthehole.com/posts/you-can-change-the-font-in-slack-with-slackfont-font/) on 2020-09-12
 - [You can display the typed text in Alfred in a huge typeface](https://til.codeinthehole.com/posts/you-can-display-the-typed-text-in-alfred-in-a-huge-typeface/) on 2020-09-07
@@ -18,4 +19,3 @@ I learnt...
 - [Vim doesn't create the persistent undo folder automatically](https://til.codeinthehole.com/posts/vim-doesnt-create-the-persistent-undo-folder-automatically/) on 2020-09-04
 - [How to use type annotations with Python's `csv` module](https://til.codeinthehole.com/posts/how-to-typecheck-csv-objects-in-python/) on 2020-09-03
 - [How to configure Alfred's Bear workflow to open notes in the main window](https://til.codeinthehole.com/posts/how-to-configure-alfreds-bear-workflow-to-open-notes-in-the-main-window/) on 2020-09-02
-- [About better YAML file folding in Vim](https://til.codeinthehole.com/posts/about-better-yaml-file-folding-in-vim/) on 2020-08-28
