@@ -11,7 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
-- [About Vim's  command](https://til.codeinthehole.com/posts/about-vims-command/) on 2020-09-16
+- [About Vim's `:helpgrep` command](https://til.codeinthehole.com/posts/about-vims-helpgrep-command/) on 2020-09-16
 - [Vim recommends using Emacs-style key bindings in command mode](https://til.codeinthehole.com/posts/vim-recommends-using-emacsstyle-key-bindings-in-command-mode/) on 2020-09-16
 - [How to conditionally include items in a Terraform list](https://til.codeinthehole.com/posts/how-to-conditionally-include-items-in-a-terraform-list/) on 2020-09-15
 - [You can change the font in Slack with `/slackfont $font`](https://til.codeinthehole.com/posts/you-can-change-the-font-in-slack-with-slackfont-font/) on 2020-09-12
