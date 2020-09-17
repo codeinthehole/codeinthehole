@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
+- [How to count lines of code in a Git repo for a given commit](https://til.codeinthehole.com/posts/how-to-count-lines-of-code-in-a-git-repo/) on 2020-09-17
 - [About Vim's `:helpgrep` command](https://til.codeinthehole.com/posts/about-vims-helpgrep-command/) on 2020-09-16
 - [Vim recommends using Emacs-style key bindings in command mode](https://til.codeinthehole.com/posts/vim-recommends-using-emacsstyle-key-bindings-in-command-mode/) on 2020-09-16
 - [How to conditionally include items in a Terraform list](https://til.codeinthehole.com/posts/how-to-conditionally-include-items-in-a-terraform-list/) on 2020-09-15
@@ -18,4 +19,3 @@ I learnt...
 - [You can display the typed text in Alfred in a huge typeface](https://til.codeinthehole.com/posts/you-can-display-the-typed-text-in-alfred-in-a-huge-typeface/) on 2020-09-07
 - [Python 3.7 supports postponed evaluation of annotations](https://til.codeinthehole.com/posts/python-37-supports-postponed-evaluation-of-annotations/) on 2020-09-04
 - [Vim doesn't create the persistent undo folder automatically](https://til.codeinthehole.com/posts/vim-doesnt-create-the-persistent-undo-folder-automatically/) on 2020-09-04
-- [How to use type annotations with Python's `csv` module](https://til.codeinthehole.com/posts/how-to-typecheck-csv-objects-in-python/) on 2020-09-03
