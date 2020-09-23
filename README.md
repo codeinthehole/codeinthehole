@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
+- [SSH config supports multiple host patterns in one block](https://til.codeinthehole.com/posts/ssh-config-supports-multiple-host-patterns-in-one-block/) on 2020-09-23
 - [There's a Chrome extension for switching AWS IAM roles](https://til.codeinthehole.com/posts/theres-a-chrome-extension-for-switching-aws-iam-roles/) on 2020-09-22
 - [YAML has several string-parsing gotchas](https://til.codeinthehole.com/posts/yaml-has-several-stringparsing-gotchas/) on 2020-09-21
 - [Javascript's unary `+` operator casts `null` to zero](https://til.codeinthehole.com/posts/javascripts-unary-plus-operator-casts-null-to-zero/) on 2020-09-21
@@ -18,4 +19,3 @@ I learnt...
 - [About Vim's `:helpgrep` command](https://til.codeinthehole.com/posts/about-vims-helpgrep-command/) on 2020-09-16
 - [Vim recommends using Emacs-style key bindings in command mode](https://til.codeinthehole.com/posts/vim-recommends-using-emacsstyle-key-bindings-in-command-mode/) on 2020-09-16
 - [How to conditionally include items in a Terraform list](https://til.codeinthehole.com/posts/how-to-conditionally-include-items-in-a-terraform-list/) on 2020-09-15
-- [You can change the font in Slack with `/slackfont $font`](https://til.codeinthehole.com/posts/you-can-change-the-font-in-slack-with-slackfont-font/) on 2020-09-12
