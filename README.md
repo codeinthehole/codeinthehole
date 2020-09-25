@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
+- [The MacOS keybinds for en- and em-dashes](https://til.codeinthehole.com/posts/the-macos-keybinds-for-en-and-emdashes/) on 2020-09-25
 - [How to read from one buffer to another in Vim](https://til.codeinthehole.com/posts/how-to-read-from-one-buffer-to-another-in-vim/) on 2020-09-23
 - [SSH config supports multiple host patterns in one block](https://til.codeinthehole.com/posts/ssh-config-supports-multiple-host-patterns-in-one-block/) on 2020-09-23
 - [There's a Chrome extension for switching AWS IAM roles](https://til.codeinthehole.com/posts/theres-a-chrome-extension-for-switching-aws-iam-roles/) on 2020-09-22
@@ -18,4 +19,3 @@ I learnt...
 - [Javascript's unary `+` operator casts `null` to zero](https://til.codeinthehole.com/posts/javascripts-unary-plus-operator-casts-null-to-zero/) on 2020-09-21
 - [How to count lines of code in a Git repo for a given commit](https://til.codeinthehole.com/posts/how-to-count-lines-of-code-in-a-git-repo/) on 2020-09-17
 - [About Vim's `:helpgrep` command](https://til.codeinthehole.com/posts/about-vims-helpgrep-command/) on 2020-09-16
-- [Vim recommends using Emacs-style key bindings in command mode](https://til.codeinthehole.com/posts/vim-recommends-using-emacsstyle-key-bindings-in-command-mode/) on 2020-09-16
