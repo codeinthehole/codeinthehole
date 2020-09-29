@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
+- [How to use xargs with printf](https://til.codeinthehole.com/posts/how-to-use-xargs-with-printf/) on 2020-09-29
 - [AWS ASGs have an 'instance refresh' feature](https://til.codeinthehole.com/posts/aws-asgs-have-an-instance-refresh-feature/) on 2020-09-28
 - [The MacOS keybinds for en- and em-dashes](https://til.codeinthehole.com/posts/the-macos-keybinds-for-en-and-emdashes/) on 2020-09-25
 - [How to read from one buffer to another in Vim](https://til.codeinthehole.com/posts/how-to-read-from-one-buffer-to-another-in-vim/) on 2020-09-23
@@ -18,4 +19,3 @@ I learnt...
 - [There's a Chrome extension for switching AWS IAM roles](https://til.codeinthehole.com/posts/theres-a-chrome-extension-for-switching-aws-iam-roles/) on 2020-09-22
 - [YAML has several string-parsing gotchas](https://til.codeinthehole.com/posts/yaml-has-several-stringparsing-gotchas/) on 2020-09-21
 - [Javascript's unary `+` operator casts `null` to zero](https://til.codeinthehole.com/posts/javascripts-unary-plus-operator-casts-null-to-zero/) on 2020-09-21
-- [How to count lines of code in a Git repo for a given commit](https://til.codeinthehole.com/posts/how-to-count-lines-of-code-in-a-git-repo/) on 2020-09-17
