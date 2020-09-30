@@ -11,7 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
-- [How to use xargs with printf](https://til.codeinthehole.com/posts/how-to-use-xargs-with-printf/) on 2020-09-29
+- [How to use `xargs` with `printf`](https://til.codeinthehole.com/posts/how-to-use-xargs-with-printf/) on 2020-09-29
 - [AWS ASGs have an 'instance refresh' feature](https://til.codeinthehole.com/posts/aws-asgs-have-an-instance-refresh-feature/) on 2020-09-28
 - [The MacOS keybinds for en- and em-dashes](https://til.codeinthehole.com/posts/the-macos-keybinds-for-en-and-emdashes/) on 2020-09-25
 - [How to read from one buffer to another in Vim](https://til.codeinthehole.com/posts/how-to-read-from-one-buffer-to-another-in-vim/) on 2020-09-23
