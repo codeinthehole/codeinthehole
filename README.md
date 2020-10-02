@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
+- [There is a "Bongcloud" chess opening](https://til.codeinthehole.com/posts/there-is-a-bongcloud-chess-opening/) on 2020-10-02
 - [How to use `xargs` with `printf`](https://til.codeinthehole.com/posts/how-to-use-xargs-with-printf/) on 2020-09-29
 - [AWS ASGs have an 'instance refresh' feature](https://til.codeinthehole.com/posts/aws-asgs-have-an-instance-refresh-feature/) on 2020-09-28
 - [The MacOS keybinds for en- and em-dashes](https://til.codeinthehole.com/posts/the-macos-keybinds-for-en-and-emdashes/) on 2020-09-25
@@ -18,4 +19,3 @@ I learnt...
 - [SSH config supports multiple host patterns in one block](https://til.codeinthehole.com/posts/ssh-config-supports-multiple-host-patterns-in-one-block/) on 2020-09-23
 - [There's a Chrome extension for switching AWS IAM roles](https://til.codeinthehole.com/posts/theres-a-chrome-extension-for-switching-aws-iam-roles/) on 2020-09-22
 - [YAML has several string-parsing gotchas](https://til.codeinthehole.com/posts/yaml-has-several-stringparsing-gotchas/) on 2020-09-21
-- [Javascript's unary `+` operator casts `null` to zero](https://til.codeinthehole.com/posts/javascripts-unary-plus-operator-casts-null-to-zero/) on 2020-09-21
