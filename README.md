@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
+- [About the difference between minimising and hiding windows in MacOS](https://til.codeinthehole.com/posts/about-the-difference-between-minimising-and-hiding-windows-in-macos/) on 2020-10-19
 - [About `readonly` Bash variables](https://til.codeinthehole.com/posts/about-readonly-bash-variables/) on 2020-10-13
 - [About `shellcheck`](https://til.codeinthehole.com/posts/about-shellcheck/) on 2020-10-12
 - [About `pip-licenses`](https://til.codeinthehole.com/posts/about-piplicenses/) on 2020-10-08
@@ -18,4 +19,3 @@ I learnt...
 - [How to resolve Git rebase conflicts on renamed files](https://til.codeinthehole.com/posts/how-to-resolve-git-conflicts-on-renamed-files/) on 2020-10-05
 - [There is a "Bongcloud" chess opening](https://til.codeinthehole.com/posts/there-is-a-bongcloud-chess-opening/) on 2020-10-02
 - [How to use `xargs` with `printf`](https://til.codeinthehole.com/posts/how-to-use-xargs-with-printf/) on 2020-09-29
-- [AWS ASGs have an 'instance refresh' feature](https://til.codeinthehole.com/posts/aws-asgs-have-an-instance-refresh-feature/) on 2020-09-28
