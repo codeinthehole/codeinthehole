@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
+- [The keyboard shortcut for grabbing a MFA code in 1PW](https://til.codeinthehole.com/posts/the-keyboard-shortcut-for-grabbing-a-mfa-code-in-1pw/) on 2020-10-22
 - [How to use AWS profiles that require MFA](https://til.codeinthehole.com/posts/how-to-use-aws-profiles-that-require-mfa/) on 2020-10-21
 - [About the difference between minimising and hiding windows in MacOS](https://til.codeinthehole.com/posts/about-the-difference-between-minimising-and-hiding-windows-in-macos/) on 2020-10-19
 - [About `readonly` Bash variables](https://til.codeinthehole.com/posts/about-readonly-bash-variables/) on 2020-10-13
@@ -18,4 +19,3 @@ I learnt...
 - [About `pip-licenses`](https://til.codeinthehole.com/posts/about-piplicenses/) on 2020-10-08
 - [About Bash's DEBUG signal](https://til.codeinthehole.com/posts/about-bashs-debug-signal/) on 2020-10-07
 - [How to resolve Git rebase conflicts on renamed files](https://til.codeinthehole.com/posts/how-to-resolve-git-conflicts-on-renamed-files/) on 2020-10-05
-- [There is a "Bongcloud" chess opening](https://til.codeinthehole.com/posts/there-is-a-bongcloud-chess-opening/) on 2020-10-02
