@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
+- [How to embed markdown content in a Github code block](https://til.codeinthehole.com/posts/how-to-embed-markdown-content-in-a-github-code-block/) on 2020-10-27
 - [You can create QR codes for WiFi networks](https://til.codeinthehole.com/posts/you-can-create-qr-codes-for-wifi-networks/) on 2020-10-27
 - [`fd` has an option for searching filepaths](https://til.codeinthehole.com/posts/fd-has-an-option-for-searching-filepaths/) on 2020-10-23
 - [`datetime.datetime` is a subclass of `datetime.date`](https://til.codeinthehole.com/posts/datetimedatetime-is-a-subclass-of-datetimedate/) on 2020-10-22
@@ -18,4 +19,3 @@ I learnt...
 - [How to use AWS profiles that require MFA](https://til.codeinthehole.com/posts/how-to-use-aws-profiles-that-require-mfa/) on 2020-10-21
 - [About the difference between minimising and hiding windows in MacOS](https://til.codeinthehole.com/posts/about-the-difference-between-minimising-and-hiding-windows-in-macos/) on 2020-10-19
 - [About `readonly` Bash variables](https://til.codeinthehole.com/posts/about-readonly-bash-variables/) on 2020-10-13
-- [About `shellcheck`](https://til.codeinthehole.com/posts/about-shellcheck/) on 2020-10-12
