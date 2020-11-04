@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Vim text-objects for Python development](https://codeinthehole.com/tips/vim-text-objects/) - 2019-06-13
 ## Latest TIL posts
 I learnt...
+- [You can run `:grep` without using parent shell process](https://til.codeinthehole.com/posts/you-can-run-grep-without-using-parent-shell-process/) on 2020-11-04
 - [There's a `QuickFixCmdPost` event in Vim](https://til.codeinthehole.com/posts/theres-a-quickfixcmdpost-event-in-vim/) on 2020-11-04
 - [You can jump to previous quickfix lists in Vim](https://til.codeinthehole.com/posts/you-can-jump-to-previous-quickfix-lists-in-vim/) on 2020-10-31
 - [How to embed markdown content in a Github code block](https://til.codeinthehole.com/posts/how-to-embed-markdown-content-in-a-github-code-block/) on 2020-10-27
@@ -18,4 +19,3 @@ I learnt...
 - [`fd` has an option for searching filepaths](https://til.codeinthehole.com/posts/fd-has-an-option-for-searching-filepaths/) on 2020-10-23
 - [`datetime.datetime` is a subclass of `datetime.date`](https://til.codeinthehole.com/posts/datetimedatetime-is-a-subclass-of-datetimedate/) on 2020-10-22
 - [The keyboard shortcut for grabbing a MFA code in 1PW](https://til.codeinthehole.com/posts/the-keyboard-shortcut-for-grabbing-a-mfa-code-in-1pw/) on 2020-10-22
-- [How to use AWS profiles that require MFA](https://til.codeinthehole.com/posts/how-to-use-aws-profiles-that-require-mfa/) on 2020-10-21
