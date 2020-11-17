@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Software development tips – part 1](https://codeinthehole.com/tips/software-development-tips-part1/) - 2020-02-26
 ## Latest TIL posts
 I learnt...
+- [Exuberant-ctags has been superceded by Universal-ctags](https://til.codeinthehole.com/posts/exuberantctags-has-been-superceded-by-universalctags/) on 2020-11-16
 - [About `column`](https://til.codeinthehole.com/posts/about-column/) on 2020-11-12
 - [You can hide night-time hours in Google calendar](https://til.codeinthehole.com/posts/you-can-hide-nighttime-hours-in-google-calendar/) on 2020-11-06
 - [You can run `:grep` without using parent shell process](https://til.codeinthehole.com/posts/you-can-run-grep-without-using-parent-shell-process/) on 2020-11-04
@@ -18,4 +19,3 @@ I learnt...
 - [You can jump to previous quickfix lists in Vim](https://til.codeinthehole.com/posts/you-can-jump-to-previous-quickfix-lists-in-vim/) on 2020-10-31
 - [How to embed markdown content in a Github code block](https://til.codeinthehole.com/posts/how-to-embed-markdown-content-in-a-github-code-block/) on 2020-10-27
 - [You can create QR codes for WiFi networks](https://til.codeinthehole.com/posts/you-can-create-qr-codes-for-wifi-networks/) on 2020-10-27
-- [`fd` has an option for searching filepaths](https://til.codeinthehole.com/posts/fd-has-an-option-for-searching-filepaths/) on 2020-10-23
