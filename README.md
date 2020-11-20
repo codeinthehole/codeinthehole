@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Software development tips – part 1](https://codeinthehole.com/tips/software-development-tips-part1/) - 2020-02-26
 ## Latest TIL posts
 I learnt...
+- [You can convert a Slack group direct message chat into a private channel](https://til.codeinthehole.com/posts/you-can-convert-a-slack-group-direct-message-chat-into-a-private-channel/) on 2020-11-20
 - [How to use Bandit with Vim's quickfix list](https://til.codeinthehole.com/posts/how-to-use-bandit-with-vims-quickfix-list/) on 2020-11-19
 - [Exuberant-ctags has been superceded by Universal-ctags](https://til.codeinthehole.com/posts/exuberantctags-has-been-superceded-by-universalctags/) on 2020-11-16
 - [About `column`](https://til.codeinthehole.com/posts/about-column/) on 2020-11-12
@@ -18,4 +19,3 @@ I learnt...
 - [You can run `:grep` without using parent shell process](https://til.codeinthehole.com/posts/you-can-run-grep-without-using-parent-shell-process/) on 2020-11-04
 - [There's a `QuickFixCmdPost` event in Vim](https://til.codeinthehole.com/posts/theres-a-quickfixcmdpost-event-in-vim/) on 2020-11-04
 - [You can jump to previous quickfix lists in Vim](https://til.codeinthehole.com/posts/you-can-jump-to-previous-quickfix-lists-in-vim/) on 2020-10-31
-- [How to embed markdown content in a Github code block](https://til.codeinthehole.com/posts/how-to-embed-markdown-content-in-a-github-code-block/) on 2020-10-27
