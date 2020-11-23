@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Software development tips – part 1](https://codeinthehole.com/tips/software-development-tips-part1/) - 2020-02-26
 ## Latest TIL posts
 I learnt...
+- [You can easily shared 1Password items via a link](https://til.codeinthehole.com/posts/you-can-easily-shared-1password-items-via-a-link/) on 2020-11-23
 - [You can convert a Slack group direct message chat into a private channel](https://til.codeinthehole.com/posts/you-can-convert-a-slack-group-direct-message-chat-into-a-private-channel/) on 2020-11-20
 - [How to use Bandit with Vim's quickfix list](https://til.codeinthehole.com/posts/how-to-use-bandit-with-vims-quickfix-list/) on 2020-11-19
 - [Exuberant-ctags has been superceded by Universal-ctags](https://til.codeinthehole.com/posts/exuberantctags-has-been-superceded-by-universalctags/) on 2020-11-16
@@ -18,4 +19,3 @@ I learnt...
 - [You can hide night-time hours in Google calendar](https://til.codeinthehole.com/posts/you-can-hide-nighttime-hours-in-google-calendar/) on 2020-11-06
 - [You can run `:grep` without using parent shell process](https://til.codeinthehole.com/posts/you-can-run-grep-without-using-parent-shell-process/) on 2020-11-04
 - [There's a `QuickFixCmdPost` event in Vim](https://til.codeinthehole.com/posts/theres-a-quickfixcmdpost-event-in-vim/) on 2020-11-04
-- [You can jump to previous quickfix lists in Vim](https://til.codeinthehole.com/posts/you-can-jump-to-previous-quickfix-lists-in-vim/) on 2020-10-31
