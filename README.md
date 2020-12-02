@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Software development tips – part 1](https://codeinthehole.com/tips/software-development-tips-part1/) - 2020-02-26
 ## Latest TIL posts
 I learnt...
+- [GSuite's "Groups Admin" role can read any group email](https://til.codeinthehole.com/posts/gsuites-groups-admin-role-can-read-any-group-email/) on 2020-12-02
 - [How to run Jekyll in a Docker container](https://til.codeinthehole.com/posts/how-to-run-jekyll-in-a-docker-container/) on 2020-11-30
 - [About how to use `keywordprg` effectively](https://til.codeinthehole.com/posts/about-how-to-use-keywordprg-effectively/) on 2020-11-27
 - [How to configure `ctags` to parse Terraform files](https://til.codeinthehole.com/posts/how-to-configure-ctags-to-parse-terraform-files/) on 2020-11-26
@@ -18,4 +19,3 @@ I learnt...
 - [You can convert a Slack group direct message chat into a private channel](https://til.codeinthehole.com/posts/you-can-convert-a-slack-group-direct-message-chat-into-a-private-channel/) on 2020-11-20
 - [How to use Bandit with Vim's quickfix list](https://til.codeinthehole.com/posts/how-to-use-bandit-with-vims-quickfix-list/) on 2020-11-19
 - [Exuberant-ctags has been superceded by Universal-ctags](https://til.codeinthehole.com/posts/exuberantctags-has-been-superceded-by-universalctags/) on 2020-11-16
-- [About `column`](https://til.codeinthehole.com/posts/about-column/) on 2020-11-12
