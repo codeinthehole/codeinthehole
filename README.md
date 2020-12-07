@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Software development tips – part 1](https://codeinthehole.com/tips/software-development-tips-part1/) - 2020-02-26
 ## Latest TIL posts
 I learnt...
+- [How to spell-check markdown repos on CircleCI](https://til.codeinthehole.com/posts/how-to-spellcheck-markdown-repos-on-circleci/) on 2020-12-07
 - [How to set per-project `ripgrep` exclude rules](https://til.codeinthehole.com/posts/how-to-set-perproject-ripgrep-exclude-rules/) on 2020-12-04
 - [Vim-markdown has some useful commands](https://til.codeinthehole.com/posts/vimmarkdown-has-some-useful-commands/) on 2020-12-04
 - [GSuite's "Groups Admin" role can read any group email](https://til.codeinthehole.com/posts/gsuites-groups-admin-role-can-read-any-group-email/) on 2020-12-02
@@ -18,4 +19,3 @@ I learnt...
 - [About how to use `keywordprg` effectively](https://til.codeinthehole.com/posts/about-how-to-use-keywordprg-effectively/) on 2020-11-27
 - [How to configure `ctags` to parse Terraform files](https://til.codeinthehole.com/posts/how-to-configure-ctags-to-parse-terraform-files/) on 2020-11-26
 - [You can easily share 1Password items via a link](https://til.codeinthehole.com/posts/you-can-easily-share-1password-items-via-a-link/) on 2020-11-23
-- [You can convert a Slack group direct message chat into a private channel](https://til.codeinthehole.com/posts/you-can-convert-a-slack-group-direct-message-chat-into-a-private-channel/) on 2020-11-20
