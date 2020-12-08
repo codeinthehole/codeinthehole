@@ -12,7 +12,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 ## Latest TIL posts
 I learnt...
 - [How to spell-check markdown repos on CircleCI](https://til.codeinthehole.com/posts/how-to-spellcheck-markdown-repos-on-circleci/) on 2020-12-07
-- [How to set per-project `ripgrep` exclude rules](https://til.codeinthehole.com/posts/how-to-set-perproject-ripgrep-exclude-rules/) on 2020-12-04
+- [How to set per-project `ripgrep` and `fzf` exclude rules](https://til.codeinthehole.com/posts/how-to-set-perproject-ripgrep-exclude-rules/) on 2020-12-04
 - [Vim-markdown has some useful commands](https://til.codeinthehole.com/posts/vimmarkdown-has-some-useful-commands/) on 2020-12-04
 - [GSuite's "Groups Admin" role can read any group email](https://til.codeinthehole.com/posts/gsuites-groups-admin-role-can-read-any-group-email/) on 2020-12-02
 - [How to run Jekyll in a Docker container](https://til.codeinthehole.com/posts/how-to-run-jekyll-in-a-docker-container/) on 2020-11-30
