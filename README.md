@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Software development tips – part 1](https://codeinthehole.com/tips/software-development-tips-part1/) - 2020-02-26
 ## Latest TIL posts
 I learnt...
+- [You can stack pytest's parametrize decorators](https://til.codeinthehole.com/posts/you-can-stack-pytests-parametrize-decorators/) on 2020-12-16
 - [About YAML's node anchors and aliases](https://til.codeinthehole.com/posts/about-yamls-node-anchors-and-aliases/) on 2020-12-11
 - [You can label parameterized fixtures with pytest](https://til.codeinthehole.com/posts/you-can-label-parameterized-fixtures-with-pytest/) on 2020-12-11
 - [Universal Ctags can index more things than I realised](https://til.codeinthehole.com/posts/universal-ctags-can-index-more-things-than-i-realised/) on 2020-12-10
@@ -18,4 +19,3 @@ I learnt...
 - [How to spell-check markdown repos on CircleCI](https://til.codeinthehole.com/posts/how-to-spellcheck-markdown-repos-on-circleci/) on 2020-12-07
 - [How to set per-project `ripgrep` and `fzf` exclude rules](https://til.codeinthehole.com/posts/how-to-set-perproject-ripgrep-exclude-rules/) on 2020-12-04
 - [Vim-markdown has some useful commands](https://til.codeinthehole.com/posts/vimmarkdown-has-some-useful-commands/) on 2020-12-04
-- [GSuite's "Groups Admin" role can read any group email](https://til.codeinthehole.com/posts/gsuites-groups-admin-role-can-read-any-group-email/) on 2020-12-02
