@@ -11,6 +11,7 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Software development tips – part 1](https://codeinthehole.com/tips/software-development-tips-part1/) - 2020-02-26
 ## Latest TIL posts
 I learnt...
+- [How to add project-specific Vim settings](https://til.codeinthehole.com/posts/how-to-add-project-specific-vim-settings/) on 2020-12-18
 - [You can stack `pytest`'s `parametrize` decorators](https://til.codeinthehole.com/posts/you-can-stack-pytests-parametrize-decorators/) on 2020-12-16
 - [About YAML's node anchors and aliases](https://til.codeinthehole.com/posts/about-yamls-node-anchors-and-aliases/) on 2020-12-11
 - [You can label parameterized fixtures with pytest](https://til.codeinthehole.com/posts/you-can-label-parameterized-fixtures-with-pytest/) on 2020-12-11
@@ -18,4 +19,3 @@ I learnt...
 - [A better way of configuring `mypy`](https://til.codeinthehole.com/posts/a-better-way-of-configuring-mypy/) on 2020-12-10
 - [How to spell-check markdown repos on CircleCI](https://til.codeinthehole.com/posts/how-to-spellcheck-markdown-repos-on-circleci/) on 2020-12-07
 - [How to set per-project `ripgrep` and `fzf` exclude rules](https://til.codeinthehole.com/posts/how-to-set-perproject-ripgrep-exclude-rules/) on 2020-12-04
-- [Vim-markdown has some useful commands](https://til.codeinthehole.com/posts/vimmarkdown-has-some-useful-commands/) on 2020-12-04
