@@ -1,5 +1,7 @@
 ## About me
-I'm the Head of Software Engineering at Octopus Energy.
+I'm the Head of Software Engineering at [Octopus Energy](https://octopus.energy/).
+
+I used to maintain several open-source projects but I less open-source work these days. I'm the original author of [`django-oscar`](https://github.com/django-oscar/django-oscar) although I'm not active in the project any more. 
 ## Latest blog posts
 - [A Vim mapping for opening virtualenv files](https://codeinthehole.com/tips/a-vim-mapping-for-opening-virtualenv-files/) - 2020-11-16
 - [Setting up a 2020 MacBook Pro for Python development](https://codeinthehole.com/guides/settings-up-a-2020-macbook-for-python-development/) - 2020-07-18
@@ -9,6 +11,8 @@ I'm the Head of Software Engineering at Octopus Energy.
 - [Software development tips – part 2](https://codeinthehole.com/tips/software-development-tips-part2/) - 2020-04-24
 - [Resolving conflicts during a Git rebase](https://codeinthehole.com/guides/resolving-conflicts-during-a-git-rebase/) - 2020-03-05
 - [Software development tips – part 1](https://codeinthehole.com/tips/software-development-tips-part1/) - 2020-02-26
+
+[Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
 - [You can define custom file-type filters in `ripgrep`](https://til.codeinthehole.com/posts/you-can-define-custom-filetype-filters-in-ripgrep/) on 2020-12-29
@@ -19,3 +23,5 @@ I learnt...
 - [You can stack `pytest`'s `parametrize` decorators](https://til.codeinthehole.com/posts/you-can-stack-pytests-parametrize-decorators/) on 2020-12-16
 - [About YAML's node anchors and aliases](https://til.codeinthehole.com/posts/about-yamls-node-anchors-and-aliases/) on 2020-12-11
 - [You can label parameterized fixtures with pytest](https://til.codeinthehole.com/posts/you-can-label-parameterized-fixtures-with-pytest/) on 2020-12-11
+
+[Browse all TIL posts](https://til.codeinthehole.com)

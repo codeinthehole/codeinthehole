@@ -5,7 +5,10 @@ import feedparser
 def generate_readme_contents(*, blog_sitemap_url: str, til_sitemap_url: str) -> str:
     contents: List[str] = [
         "## About me",
-        "I'm the Head of Software Engineering at Octopus Energy.",
+        "I'm the Head of Software Engineering at [Octopus Energy](https://octopus.energy/).",
+        "",
+        "I used to maintain several open-source projects but I less open-source work these days. "
+        "I'm the original author of [`django-oscar`](https://github.com/django-oscar/django-oscar) although I'm not active in the project any more. "
     ]
 
     # Add content from blog.
@@ -14,6 +17,8 @@ def generate_readme_contents(*, blog_sitemap_url: str, til_sitemap_url: str) -> 
         contents.append(
             f"- [{post_data['title']}]({post_data['url']}) - {post_data['published_date']}"
         )
+    contents.append("")
+    contents.append("[Browse all blog posts](https://codeinthehole.com/writing/)")
 
     # Add content from TIL site.
     contents.append("## Latest TIL posts")
@@ -22,6 +27,8 @@ def generate_readme_contents(*, blog_sitemap_url: str, til_sitemap_url: str) -> 
         contents.append(
             f"- [{post_data['title']}]({post_data['url']}) on {post_data['published_date']}"
         )
+    contents.append("")
+    contents.append("[Browse all TIL posts](https://til.codeinthehole.com)")
 
     return "\n".join(contents)
 
