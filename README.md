@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to search for fixed strings with grep or rg](https://til.codeinthehole.com/posts/how-to-search-for-fixed-strings-with-grep-or-rg/) on 2021-01-11
 - [How to easily disable a CircleCI workflow](https://til.codeinthehole.com/posts/how-to-easily-disable-a-circleci-workflow/) on 2021-01-08
 - [BBC Sounds only works on Alexa if the language setting is UK English](https://til.codeinthehole.com/posts/bbc-sounds-only-works-on-alexa-if-the-language-setting-is-uk-english/) on 2021-01-07
 - [How temporary files are removed on MacOS](https://til.codeinthehole.com/posts/how-temp-files-are-removed-on-macos/) on 2021-01-07
@@ -22,6 +23,5 @@ I learnt...
 - [How to enable Docker BuildKit in MacOS Docker Desktop](https://til.codeinthehole.com/posts/how-to-enable-docker-buildkit-in-macos-docker-desktop/) on 2020-12-29
 - [You can specify the file-type for `bat`](https://til.codeinthehole.com/posts/you-can-specify-the-filetype-for-bat/) on 2020-12-21
 - [About `envsubst`](https://til.codeinthehole.com/posts/about-envsubst/) on 2020-12-19
-- [How to add project-specific Vim settings](https://til.codeinthehole.com/posts/how-to-add-project-specific-vim-settings/) on 2020-12-18
 
 [Browse all TIL posts](https://til.codeinthehole.com)
