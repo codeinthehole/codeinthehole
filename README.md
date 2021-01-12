@@ -15,7 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
-- [How to search for fixed strings with grep or rg](https://til.codeinthehole.com/posts/how-to-search-for-fixed-strings-with-grep-or-rg/) on 2021-01-11
+- [How to search for fixed strings with `grep` and `ripgrep`](https://til.codeinthehole.com/posts/how-to-search-for-fixed-strings-with-grep-and-ripgrep/) on 2021-01-12
 - [How to easily disable a CircleCI workflow](https://til.codeinthehole.com/posts/how-to-easily-disable-a-circleci-workflow/) on 2021-01-08
 - [BBC Sounds only works on Alexa if the language setting is UK English](https://til.codeinthehole.com/posts/bbc-sounds-only-works-on-alexa-if-the-language-setting-is-uk-english/) on 2021-01-07
 - [How temporary files are removed on MacOS](https://til.codeinthehole.com/posts/how-temp-files-are-removed-on-macos/) on 2021-01-07
