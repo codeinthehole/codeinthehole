@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [You can take screenshots with Chrome DevTools](https://til.codeinthehole.com/posts/you-can-take-screenshots-with-chrome-devtools/) on 2021-01-25
 - [You can arbitrarily chain Python comparison operations](https://til.codeinthehole.com/posts/you-can-arbitrarily-chain-python-comparison-operators/) on 2021-01-15
 - [How to pipe an argument list into Vim](https://til.codeinthehole.com/posts/how-to-pipe-an-argument-list-into-vim/) on 2021-01-15
 - [How to copy the current filepath to the system clipboard in Vim](https://til.codeinthehole.com/posts/how-to-copy-the-current-filepath-to-the-system-clipboard-in-vim/) on 2021-01-12
@@ -22,6 +23,5 @@ I learnt...
 - [How to easily disable a CircleCI workflow](https://til.codeinthehole.com/posts/how-to-easily-disable-a-circleci-workflow/) on 2021-01-08
 - [BBC Sounds only works on Alexa if the language setting is UK English](https://til.codeinthehole.com/posts/bbc-sounds-only-works-on-alexa-if-the-language-setting-is-uk-english/) on 2021-01-07
 - [How temporary files are removed on MacOS](https://til.codeinthehole.com/posts/how-temp-files-are-removed-on-macos/) on 2021-01-07
-- [You can define custom file-type filters in `ripgrep`](https://til.codeinthehole.com/posts/you-can-define-custom-filetype-filters-in-ripgrep/) on 2020-12-29
 
 [Browse all TIL posts](https://til.codeinthehole.com)
