@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [About Github's `@me` search term](https://til.codeinthehole.com/posts/about-githubs-me-search-term/) on 2021-02-05
 - [Recruiters talk about T-shaped leaders](https://til.codeinthehole.com/posts/recruiters-talk-about-tshaped-leaders/) on 2021-02-03
 - [Virgin Media's "Web Safe" product uses DNS](https://til.codeinthehole.com/posts/virgin-medias-web-safe-product-uses-dns/) on 2021-01-29
 - [How to scroll horizontally with a mouse](https://til.codeinthehole.com/posts/how-to-scroll-horizontally-with-a-mouse/) on 2021-01-26
@@ -22,6 +23,5 @@ I learnt...
 - [You can arbitrarily chain Python comparison operations](https://til.codeinthehole.com/posts/you-can-arbitrarily-chain-python-comparison-operators/) on 2021-01-15
 - [How to pipe an argument list into Vim](https://til.codeinthehole.com/posts/how-to-pipe-an-argument-list-into-vim/) on 2021-01-15
 - [How to copy the current filepath to the system clipboard in Vim](https://til.codeinthehole.com/posts/how-to-copy-the-current-filepath-to-the-system-clipboard-in-vim/) on 2021-01-12
-- [How to search for fixed strings with `grep` and `ripgrep`](https://til.codeinthehole.com/posts/how-to-search-for-fixed-strings-with-grep-and-ripgrep/) on 2021-01-12
 
 [Browse all TIL posts](https://til.codeinthehole.com)
