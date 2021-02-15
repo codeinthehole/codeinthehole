@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to use custom functions with `:cdo`](https://til.codeinthehole.com/posts/how-to-use-custom-functions-with-cdo/) on 2021-02-15
 - [The order of permissions matters with `chmod`](https://til.codeinthehole.com/posts/the-order-of-permissions-matter-with-chmod/) on 2021-02-06
 - [About Github's `@me` search term](https://til.codeinthehole.com/posts/about-githubs-me-search-term/) on 2021-02-05
 - [Recruiters talk about T-shaped leaders](https://til.codeinthehole.com/posts/recruiters-talk-about-tshaped-leaders/) on 2021-02-03
@@ -22,6 +23,5 @@ I learnt...
 - [How to scroll horizontally with a mouse](https://til.codeinthehole.com/posts/how-to-scroll-horizontally-with-a-mouse/) on 2021-01-26
 - [You can take screenshots with Chrome DevTools](https://til.codeinthehole.com/posts/you-can-take-screenshots-with-chrome-devtools/) on 2021-01-25
 - [You can arbitrarily chain Python comparison operations](https://til.codeinthehole.com/posts/you-can-arbitrarily-chain-python-comparison-operators/) on 2021-01-15
-- [How to pipe an argument list into Vim](https://til.codeinthehole.com/posts/how-to-pipe-an-argument-list-into-vim/) on 2021-01-15
 
 [Browse all TIL posts](https://til.codeinthehole.com)
