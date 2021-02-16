@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [Chrome has a flags page for enabling experimental features](https://til.codeinthehole.com/posts/chrome-has-a-flags-page-for-enabling-experimental-features/) on 2021-02-16
 - [How to use custom functions with `:cdo`](https://til.codeinthehole.com/posts/how-to-use-custom-functions-with-cdo/) on 2021-02-15
 - [The order of permissions matters with `chmod`](https://til.codeinthehole.com/posts/the-order-of-permissions-matter-with-chmod/) on 2021-02-06
 - [About Github's `@me` search term](https://til.codeinthehole.com/posts/about-githubs-me-search-term/) on 2021-02-05
@@ -22,6 +23,5 @@ I learnt...
 - [Virgin Media's "Web Safe" product uses DNS](https://til.codeinthehole.com/posts/virgin-medias-web-safe-product-uses-dns/) on 2021-01-29
 - [How to scroll horizontally with a mouse](https://til.codeinthehole.com/posts/how-to-scroll-horizontally-with-a-mouse/) on 2021-01-26
 - [You can take screenshots with Chrome DevTools](https://til.codeinthehole.com/posts/you-can-take-screenshots-with-chrome-devtools/) on 2021-01-25
-- [You can arbitrarily chain Python comparison operations](https://til.codeinthehole.com/posts/you-can-arbitrarily-chain-python-comparison-operators/) on 2021-01-15
 
 [Browse all TIL posts](https://til.codeinthehole.com)
