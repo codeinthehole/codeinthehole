@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [SystemD timers can be stopped](https://til.codeinthehole.com/posts/systemd-timers-can-be-stopped/) on 2021-03-09
 - [You can use Git log to view the evolution of a function](https://til.codeinthehole.com/posts/you-can-use-git-log-to-view-the-evolution-of-a-function/) on 2021-03-05
 - [To prefer `dateutil` over `pytz`](https://til.codeinthehole.com/posts/to-prefer-dateutil-over-pytz/) on 2021-03-04
 - [Pytest doesn't play nicely with ipdb](https://til.codeinthehole.com/posts/pytest-doesnt-play-nicely-with-ipdb/) on 2021-03-02
@@ -22,6 +23,5 @@ I learnt...
 - [How to use custom functions with `:cdo`](https://til.codeinthehole.com/posts/how-to-use-custom-functions-with-cdo/) on 2021-02-15
 - [The order of permissions matters with `chmod`](https://til.codeinthehole.com/posts/the-order-of-permissions-matter-with-chmod/) on 2021-02-06
 - [About Github's `@me` search term](https://til.codeinthehole.com/posts/about-githubs-me-search-term/) on 2021-02-05
-- [Recruiters talk about T-shaped leaders](https://til.codeinthehole.com/posts/recruiters-talk-about-tshaped-leaders/) on 2021-02-03
 
 [Browse all TIL posts](https://til.codeinthehole.com)
