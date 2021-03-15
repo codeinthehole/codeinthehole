@@ -17,7 +17,7 @@ I used to maintain several open-source projects but I less open-source work thes
 I learnt...
 - [That software can be "free as in mattress"](https://til.codeinthehole.com/posts/that-software-can-be-free-as-in-mattress/) on 2021-03-15
 - [systemd sends SIGKILL signals after waiting for `TimeoutStopSec` seconds](https://til.codeinthehole.com/posts/systemd-sends-sigkill-signals-after-waiting-for-timestopsec-seconds/) on 2021-03-12
-- [ITerm2's "Cursor boost" feature will cause everything to appear dimmed](https://til.codeinthehole.com/posts/iterm2s-cursor-boost-feature-will-cause-everything-to-appear-dimmed/) on 2021-03-12
+- [iTerm2's "Cursor boost" feature will cause everything to appear dimmed](https://til.codeinthehole.com/posts/iterm2s-cursor-boost-feature-will-cause-everything-to-appear-dimmed/) on 2021-03-12
 - [`pdbpp` has a useful 'sticky' mode](https://til.codeinthehole.com/posts/pdbpp-has-a-useful-sticky-mode/) on 2021-03-11
 - [systemd timers can be stopped](https://til.codeinthehole.com/posts/systemd-timers-can-be-stopped/) on 2021-03-09
 - [You can use Git log to view the evolution of a function](https://til.codeinthehole.com/posts/you-can-use-git-log-to-view-the-evolution-of-a-function/) on 2021-03-05
