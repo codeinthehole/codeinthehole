@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [You can use `shuf` to take random samples of lines](https://til.codeinthehole.com/posts/you-can-shuf-to-take-random-samples-of-lines/) on 2021-04-14
 - [That `vim-polyglot` conflicts with Hub when creating pull requests](https://til.codeinthehole.com/posts/that-vimpolyglot-conflicts-with-hub-when-creating-pull-requests/) on 2021-03-30
 - [About `git-absorb`](https://til.codeinthehole.com/posts/about-gitabsorb/) on 2021-03-28
 - [JSON is valid YAML](https://til.codeinthehole.com/posts/json-is-valid-yaml/) on 2021-03-26
@@ -22,6 +23,5 @@ I learnt...
 - [How to include the date in `git reflog` output](https://til.codeinthehole.com/posts/how-to-include-the-date-in-git-reflog-output/) on 2021-03-25
 - [About `xargs -t`](https://til.codeinthehole.com/posts/about-xargs-t/) on 2021-03-22
 - [What the sections of the Unix manual are](https://til.codeinthehole.com/posts/what-the-sections-of-the-unix-manual-are/) on 2021-03-22
-- [About delta, a viewer for Git and diff output](https://til.codeinthehole.com/posts/about-delta/) on 2021-03-19
 
 [Browse all TIL posts](https://til.codeinthehole.com)
