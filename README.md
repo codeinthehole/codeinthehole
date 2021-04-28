@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [The correct sequence of SQL statements for dropping a role](https://til.codeinthehole.com/posts/the-correct-sequence-of-sql-statements-for-dropping-a-role/) on 2021-04-28
 - [Python's `csv.writer` function defaults to Windows line endings](https://til.codeinthehole.com/posts/pythons-csvwriter-function-defaults-to-windows-line-endings/) on 2021-04-20
 - [You can use `shuf` to take random samples of lines](https://til.codeinthehole.com/posts/you-can-shuf-to-take-random-samples-of-lines/) on 2021-04-14
 - [That `vim-polyglot` conflicts with Hub when creating pull requests](https://til.codeinthehole.com/posts/that-vimpolyglot-conflicts-with-hub-when-creating-pull-requests/) on 2021-03-30
@@ -22,6 +23,5 @@ I learnt...
 - [JSON is valid YAML](https://til.codeinthehole.com/posts/json-is-valid-yaml/) on 2021-03-26
 - [How to convert SSH2 public keys to OpenSSH format](https://til.codeinthehole.com/posts/how-to-convert-ssh2-public-keys-to-openssh-format/) on 2021-03-26
 - [How to include the date in `git reflog` output](https://til.codeinthehole.com/posts/how-to-include-the-date-in-git-reflog-output/) on 2021-03-25
-- [About `xargs -t`](https://til.codeinthehole.com/posts/about-xargs-t/) on 2021-03-22
 
 [Browse all TIL posts](https://til.codeinthehole.com)
