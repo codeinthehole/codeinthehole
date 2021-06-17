@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [About `jq`s `--slurp` option](https://til.codeinthehole.com/posts/about-jqs-slurp-option/) on 2021-06-17
 - [About `mypy`'s `reveal_type` and `reveal_locals` functions](https://til.codeinthehole.com/posts/about-mypys-revealtype-and-reveallocals-functions/) on 2021-06-16
 - [That `mypy` only type-checks functions that have at least one type annotation](https://til.codeinthehole.com/posts/that-mypy-only-typechecks-functions-that-have-at-least-one-type-annotation/) on 2021-06-16
 - [About `git log -G`](https://til.codeinthehole.com/posts/about-git-log-g/) on 2021-06-02
@@ -22,6 +23,5 @@ I learnt...
 - [About Ubuntu's `alert` Bash alias](https://til.codeinthehole.com/posts/about-ubuntus-alert-bash-alias/) on 2021-05-14
 - [About Vim's semi-colon search offset](https://til.codeinthehole.com/posts/about-vims-semicolon-search-offset/) on 2021-05-14
 - [The ISO-3166 codes for the United Kingdon are inaccurate](https://til.codeinthehole.com/posts/the-iso3166-codes-for-the-united-kingdon-are-inaccurate/) on 2021-05-12
-- [That Vim's uppercase marks are global and persistent](https://til.codeinthehole.com/posts/that-vims-uppercase-marks-are-global-and-persistent/) on 2021-05-06
 
 [Browse all TIL posts](https://til.codeinthehole.com)
