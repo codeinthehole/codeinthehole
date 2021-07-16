@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [That Pytest's "keyword expression" filtering supports Python conditionals](https://til.codeinthehole.com/posts/that-pytests-keyword-expression-filtering-supports-python-conditionals/) on 2021-07-16
 - [That FreezeGun doesn't work with Pytest fixtures (unless you use `pytest-freezegun`)](https://til.codeinthehole.com/posts/that-freezegun-doesnt-work-with-pytest-fixtures/) on 2021-07-12
 - [About Chrome's named windows](https://til.codeinthehole.com/posts/about-chromes-named-windows/) on 2021-06-30
 - [About `mypy`'s unreachable code functionality](https://til.codeinthehole.com/posts/about-mypys-unreachable-code-functionality/) on 2021-06-21
@@ -22,6 +23,5 @@ I learnt...
 - [About `mypy`'s `reveal_type` and `reveal_locals` functions](https://til.codeinthehole.com/posts/about-mypys-revealtype-and-reveallocals-functions/) on 2021-06-16
 - [That `mypy` only type-checks functions that have at least one type annotation](https://til.codeinthehole.com/posts/that-mypy-only-typechecks-functions-that-have-at-least-one-type-annotation/) on 2021-06-16
 - [About `git log -G`](https://til.codeinthehole.com/posts/about-git-log-g/) on 2021-06-02
-- [About the `:ALEInfo` command](https://til.codeinthehole.com/posts/about-the-aleinfo-command/) on 2021-05-25
 
 [Browse all TIL posts](https://til.codeinthehole.com)
