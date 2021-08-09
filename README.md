@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [You can have SSH sessions via AWS Session Manager](https://til.codeinthehole.com/posts/you-can-have-ssh-sessions-via-aws-session-manager/) on 2021-08-09
 - [Django doesn't flush caches between tests](https://til.codeinthehole.com/posts/django-doesnt-flush-caches-between-tests/) on 2021-07-23
 - [How Django's management commands need to be type hinted](https://til.codeinthehole.com/posts/how-djangos-management-commands-need-to-be-type-hinted/) on 2021-07-22
 - [File-level flake8 comments ignore all errors](https://til.codeinthehole.com/posts/filelevel-flake8-comments-ignore-all-errors/) on 2021-07-21
@@ -22,6 +23,5 @@ I learnt...
 - [That Pytest's "keyword expression" filtering supports Python conditionals](https://til.codeinthehole.com/posts/that-pytests-keyword-expression-filtering-supports-python-conditionals/) on 2021-07-16
 - [That FreezeGun doesn't work with Pytest fixtures (unless you use `pytest-freezegun`)](https://til.codeinthehole.com/posts/that-freezegun-doesnt-work-with-pytest-fixtures/) on 2021-07-12
 - [About Chrome's named windows](https://til.codeinthehole.com/posts/about-chromes-named-windows/) on 2021-06-30
-- [About `mypy`'s unreachable code functionality](https://til.codeinthehole.com/posts/about-mypys-unreachable-code-functionality/) on 2021-06-21
 
 [Browse all TIL posts](https://til.codeinthehole.com)
