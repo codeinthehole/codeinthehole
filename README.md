@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to easily copy annotated screenshots to the clipboard on macOS](https://til.codeinthehole.com/posts/how-to-easily-copy-annotated-screenshots-to-the-clipboard-on-macos/) on 2021-09-13
 - [The names for macOS keyboard meta-characters](https://til.codeinthehole.com/posts/the-names-for-macos-keyboard-metacharacters/) on 2021-09-10
 - [About `git merge-base`](https://til.codeinthehole.com/posts/about-git-mergebase/) on 2021-09-08
 - [You can have SSH sessions via AWS Session Manager](https://til.codeinthehole.com/posts/you-can-have-ssh-sessions-via-aws-session-manager/) on 2021-08-09
@@ -22,6 +23,5 @@ I learnt...
 - [How Django's management commands need to be type hinted](https://til.codeinthehole.com/posts/how-djangos-management-commands-need-to-be-type-hinted/) on 2021-07-22
 - [File-level flake8 comments ignore all errors](https://til.codeinthehole.com/posts/filelevel-flake8-comments-ignore-all-errors/) on 2021-07-21
 - [Git aliases that run an external command are run from the repository root](https://til.codeinthehole.com/posts/that-git-aliases-that-run-an-external-command-are-run-from-the-repository-root/) on 2021-07-21
-- [That Pytest's "keyword expression" filtering supports Python conditionals](https://til.codeinthehole.com/posts/that-pytests-keyword-expression-filtering-supports-python-conditionals/) on 2021-07-16
 
 [Browse all TIL posts](https://til.codeinthehole.com)
