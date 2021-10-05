@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to delete all buffers in Vim](https://til.codeinthehole.com/posts/how-to-delete-all-buffers-in-vim/) on 2021-10-05
 - [Factory boy can be used to build dicts](https://til.codeinthehole.com/posts/factory-boy-can-be-used-to-build-dicts/) on 2021-09-30
 - [Django settings prefixed with an underscore are private](https://til.codeinthehole.com/posts/django-settings-prefixed-with-an-underscore-are-private/) on 2021-09-20
 - [How to reset an SSH session](https://til.codeinthehole.com/posts/how-to-reset-an-ssh-session/) on 2021-09-16
@@ -22,6 +23,5 @@ I learnt...
 - [The names for macOS keyboard meta-characters](https://til.codeinthehole.com/posts/the-names-for-macos-keyboard-metacharacters/) on 2021-09-10
 - [About `git merge-base`](https://til.codeinthehole.com/posts/about-git-mergebase/) on 2021-09-08
 - [You can have SSH sessions via AWS Session Manager](https://til.codeinthehole.com/posts/you-can-have-ssh-sessions-via-aws-session-manager/) on 2021-08-09
-- [Django doesn't flush caches between tests](https://til.codeinthehole.com/posts/django-doesnt-flush-caches-between-tests/) on 2021-07-23
 
 [Browse all TIL posts](https://til.codeinthehole.com)
