@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to find the files from a commit that deleted a given pattern](https://til.codeinthehole.com/posts/how-to-print-the-changed-filepaths-from-a-commit-and-nothing-else/) on 2021-10-15
 - [Python's `envparse` library has counter-intuitive boolean casting](https://til.codeinthehole.com/posts/pythons-envparse-library-has-counterintuitive-boolean-casting/) on 2021-10-14
 - [About Git's `diff.relative` config option](https://til.codeinthehole.com/posts/about-gits-diffrelative-config-option/) on 2021-10-12
 - [How to effectively scan files using an iPhone](https://til.codeinthehole.com/posts/how-to-effectively-scan-files-using-an-iphone/) on 2021-10-08
@@ -22,6 +23,5 @@ I learnt...
 - [Factory boy can be used to build dicts](https://til.codeinthehole.com/posts/factory-boy-can-be-used-to-build-dicts/) on 2021-09-30
 - [Django settings prefixed with an underscore are private](https://til.codeinthehole.com/posts/django-settings-prefixed-with-an-underscore-are-private/) on 2021-09-20
 - [How to reset an SSH session](https://til.codeinthehole.com/posts/how-to-reset-an-ssh-session/) on 2021-09-16
-- [How to easily copy annotated screenshots to the clipboard on macOS](https://til.codeinthehole.com/posts/how-to-easily-copy-annotated-screenshots-to-the-clipboard-on-macos/) on 2021-09-13
 
 [Browse all TIL posts](https://til.codeinthehole.com)
