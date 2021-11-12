@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to continue a Git rebase and skip editing the commit message](https://til.codeinthehole.com/posts/how-to-continue-a-git-rebase-and-skip-editing-the-commit-message/) on 2021-11-12
 - [That AWS Aurora clusters have two types of storage](https://til.codeinthehole.com/posts/that-aws-aurora-clusters-have-two-types-of-storage/) on 2021-11-09
 - [How to use `aws-mfa-v2` to avoid entering so many MFA tokens](https://til.codeinthehole.com/posts/how-to-use-awsmfav2-to-avoid-entering-so-many-mfa-tokens/) on 2021-11-08
 - [About a gotcha with `psycopg2`'s autocommit handling](https://til.codeinthehole.com/posts/about-a-gotcha-with-psycopg2s-autocommit-handling/) on 2021-11-05
@@ -22,6 +23,5 @@ I learnt...
 - [Python's `envparse` library has counter-intuitive boolean casting](https://til.codeinthehole.com/posts/pythons-envparse-library-has-counterintuitive-boolean-casting/) on 2021-10-14
 - [About Git's `diff.relative` config option](https://til.codeinthehole.com/posts/about-gits-diffrelative-config-option/) on 2021-10-12
 - [How to effectively scan files using an iPhone](https://til.codeinthehole.com/posts/how-to-effectively-scan-files-using-an-iphone/) on 2021-10-08
-- [How to delete all buffers in Vim](https://til.codeinthehole.com/posts/how-to-delete-all-buffers-in-vim/) on 2021-10-05
 
 [Browse all TIL posts](https://til.codeinthehole.com)
