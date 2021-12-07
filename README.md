@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to list the mounts of a running Docker container](https://til.codeinthehole.com/posts/how-to-list-the-mounts-of-a-running-docker-container/) on 2021-12-07
 - [About Bash's `$SECONDS` shell variable](https://til.codeinthehole.com/posts/about-bashs-seconds-shell-variable/) on 2021-11-26
 - [That Vim can transform replacement values when substituting](https://til.codeinthehole.com/posts/that-vim-can-transform-replacement-values-when-substituting/) on 2021-11-15
 - [How to continue a Git rebase and skip editing the commit message](https://til.codeinthehole.com/posts/how-to-continue-a-git-rebase-and-skip-editing-the-commit-message/) on 2021-11-12
@@ -22,6 +23,5 @@ I learnt...
 - [How to use `aws-mfa-v2` to avoid entering so many MFA tokens](https://til.codeinthehole.com/posts/how-to-use-awsmfav2-to-avoid-entering-so-many-mfa-tokens/) on 2021-11-08
 - [About a gotcha with `psycopg2`'s autocommit handling](https://til.codeinthehole.com/posts/about-a-gotcha-with-psycopg2s-autocommit-handling/) on 2021-11-05
 - [How to find the files from a commit that deleted a given pattern](https://til.codeinthehole.com/posts/how-to-print-the-changed-filepaths-from-a-commit-and-nothing-else/) on 2021-10-15
-- [Python's `envparse` library has counter-intuitive boolean casting](https://til.codeinthehole.com/posts/pythons-envparse-library-has-counterintuitive-boolean-casting/) on 2021-10-14
 
 [Browse all TIL posts](https://til.codeinthehole.com)
