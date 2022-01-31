@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [Google Groups can be nested](https://til.codeinthehole.com/posts/google-groups-can-be-nested/) on 2022-01-31
 - [About Django's `setup` method for generic view classes](https://til.codeinthehole.com/posts/about-djangos-setup-method-for-generic-view-classes/) on 2021-12-14
 - [How to list the mounts of a running Docker container](https://til.codeinthehole.com/posts/how-to-list-the-mounts-of-a-running-docker-container/) on 2021-12-07
 - [About Bash's `$SECONDS` shell variable](https://til.codeinthehole.com/posts/about-bashs-seconds-shell-variable/) on 2021-11-26
@@ -22,6 +23,5 @@ I learnt...
 - [How to continue a Git rebase and skip editing the commit message](https://til.codeinthehole.com/posts/how-to-continue-a-git-rebase-and-skip-editing-the-commit-message/) on 2021-11-12
 - [That AWS Aurora clusters have two types of storage](https://til.codeinthehole.com/posts/that-aws-aurora-clusters-have-two-types-of-storage/) on 2021-11-09
 - [How to use `aws-mfa-v2` to avoid entering so many MFA tokens](https://til.codeinthehole.com/posts/how-to-use-awsmfav2-to-avoid-entering-so-many-mfa-tokens/) on 2021-11-08
-- [About a gotcha with `psycopg2`'s autocommit handling](https://til.codeinthehole.com/posts/about-a-gotcha-with-psycopg2s-autocommit-handling/) on 2021-11-05
 
 [Browse all TIL posts](https://til.codeinthehole.com)
