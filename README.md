@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [About Github's `involves:$username` search filter](https://til.codeinthehole.com/posts/about-githubs-involves-search-filter/) on 2022-02-02
 - [You can't use Django's generic foreign key field with objects stored in a separate database](https://til.codeinthehole.com/posts/you-cant-use-djangos-generic-foreign-key-field-with-objects-stored-in-a-separate-database/) on 2022-02-02
 - [Google Groups can be nested](https://til.codeinthehole.com/posts/google-groups-can-be-nested/) on 2022-01-31
 - [About Django's `setup` method for generic view classes](https://til.codeinthehole.com/posts/about-djangos-setup-method-for-generic-view-classes/) on 2021-12-14
@@ -22,6 +23,5 @@ I learnt...
 - [About Bash's `$SECONDS` shell variable](https://til.codeinthehole.com/posts/about-bashs-seconds-shell-variable/) on 2021-11-26
 - [That Vim can transform replacement values when substituting](https://til.codeinthehole.com/posts/that-vim-can-transform-replacement-values-when-substituting/) on 2021-11-15
 - [How to continue a Git rebase and skip editing the commit message](https://til.codeinthehole.com/posts/how-to-continue-a-git-rebase-and-skip-editing-the-commit-message/) on 2021-11-12
-- [That AWS Aurora clusters have two types of storage](https://til.codeinthehole.com/posts/that-aws-aurora-clusters-have-two-types-of-storage/) on 2021-11-09
 
 [Browse all TIL posts](https://til.codeinthehole.com)
