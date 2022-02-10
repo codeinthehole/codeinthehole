@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [You can search for Loggly mapping conflicts](https://til.codeinthehole.com/posts/you-can-search-for-loggly-mapping-conflicts/) on 2022-02-10
 - [About Github's `involves:$username` search filter](https://til.codeinthehole.com/posts/about-githubs-involves-search-filter/) on 2022-02-02
 - [You can't use Django's generic foreign key field with objects stored in a separate database](https://til.codeinthehole.com/posts/you-cant-use-djangos-generic-foreign-key-field-with-objects-stored-in-a-separate-database/) on 2022-02-02
 - [Google Groups can be nested](https://til.codeinthehole.com/posts/google-groups-can-be-nested/) on 2022-01-31
@@ -22,6 +23,5 @@ I learnt...
 - [How to list the mounts of a running Docker container](https://til.codeinthehole.com/posts/how-to-list-the-mounts-of-a-running-docker-container/) on 2021-12-07
 - [About Bash's `$SECONDS` shell variable](https://til.codeinthehole.com/posts/about-bashs-seconds-shell-variable/) on 2021-11-26
 - [That Vim can transform replacement values when substituting](https://til.codeinthehole.com/posts/that-vim-can-transform-replacement-values-when-substituting/) on 2021-11-15
-- [How to continue a Git rebase and skip editing the commit message](https://til.codeinthehole.com/posts/how-to-continue-a-git-rebase-and-skip-editing-the-commit-message/) on 2021-11-12
 
 [Browse all TIL posts](https://til.codeinthehole.com)
