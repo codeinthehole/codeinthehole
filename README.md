@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I less open-source work thes
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to use `markdownlint` output in Vim's quickfix list](https://til.codeinthehole.com/posts/how-to-use-markdownlint-output-in-vims-quickfix-list/) on 2022-02-16
 - [About Factory Boy's `SelfAttribute` class](https://til.codeinthehole.com/posts/about-factory-boys-selfattribute-class/) on 2022-02-16
 - [You can search for Loggly mapping conflicts](https://til.codeinthehole.com/posts/you-can-search-for-loggly-mapping-conflicts/) on 2022-02-10
 - [About Github's `involves:$username` search filter](https://til.codeinthehole.com/posts/about-githubs-involves-search-filter/) on 2022-02-02
@@ -22,6 +23,5 @@ I learnt...
 - [Google Groups can be nested](https://til.codeinthehole.com/posts/google-groups-can-be-nested/) on 2022-01-31
 - [About Django's `setup` method for generic view classes](https://til.codeinthehole.com/posts/about-djangos-setup-method-for-generic-view-classes/) on 2021-12-14
 - [How to list the mounts of a running Docker container](https://til.codeinthehole.com/posts/how-to-list-the-mounts-of-a-running-docker-container/) on 2021-12-07
-- [About Bash's `$SECONDS` shell variable](https://til.codeinthehole.com/posts/about-bashs-seconds-shell-variable/) on 2021-11-26
 
 [Browse all TIL posts](https://til.codeinthehole.com)
