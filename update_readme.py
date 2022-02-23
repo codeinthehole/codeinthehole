@@ -2,7 +2,7 @@ import datetime
 import feedparser
 
 
-def generate_readme_contents(*, blog_sitemap_url: str, til_sitemap_url: str) -> str:
+def generate_readme_contents(*, blog_sitemap_url: str, til_sitemap_url: str, gists_url) -> str:
     contents: List[str] = [
         "## About me",
         "I'm the Head of Software Engineering at [Octopus Energy](https://octopus.energy/).",
@@ -30,6 +30,15 @@ def generate_readme_contents(*, blog_sitemap_url: str, til_sitemap_url: str) -> 
     contents.append("")
     contents.append("[Browse all TIL posts](https://til.codeinthehole.com)")
 
+    # Add content from public gists
+    contents.append("## Latest Gists")
+    for post_data in fetch_public_gists(gists_url):
+        contents.append(
+            f"- [{post_data['title']}]({post_data['url']}) on {post_data['published_date']}"
+        )
+    contents.append("")
+    contents.append("[Browse all public Gists](https://gist.github.com/codeinthehole)")
+
     return "\n".join(contents)
 
 
@@ -51,10 +60,20 @@ def fetch_til_posts(url: str, max_entries: int = 8):
         }
 
 
+def fetch_public_gists(url: str, max_entries: int = 8):
+    for post in feedparser.parse(url)["entries"][:max_entries]:
+        yield {
+            "title": post["title"],
+            "url": post["link"],
+            "published_date": datetime.datetime(*post["published_parsed"][:6]).date(),
+        }
+
+
 if __name__ == "__main__":
     contents = generate_readme_contents(
         blog_sitemap_url="https://codeinthehole.com/index.xml",
         til_sitemap_url="https://til.codeinthehole.com/posts/index.xml",
+        gists_url="https://gist.github.com/codeinthehole.atom",
     )
 
     print(contents)
