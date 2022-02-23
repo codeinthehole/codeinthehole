@@ -1,7 +1,7 @@
 ## About me
 I'm the Head of Software Engineering at [Octopus Energy](https://octopus.energy/).
 
-I used to maintain several open-source projects but I less open-source work these days. I'm the original author of [`django-oscar`](https://github.com/django-oscar/django-oscar) although I'm not active in the project any more. 
+I used to maintain several open-source projects but I do less open-source work these days. I'm the original author of [`django-oscar`](https://github.com/django-oscar/django-oscar) although I'm not active in the project any more. 
 ## Latest blog posts
 - [Explaining](https://codeinthehole.com/tips/explaining/) - 2021-10-14
 - [Vim's useful lists](https://codeinthehole.com/tips/vim-lists/) - 2021-05-03
