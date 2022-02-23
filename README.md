@@ -30,7 +30,7 @@ I learnt...
 - [Python testing reference](https://gist.github.com/codeinthehole/9193c53f16371ec38cebc97aa1abf987) on 2021-03-19
 - [A Python unit test that demonstrates the problem with Django's `make_aware` function](https://gist.github.com/codeinthehole/1ac10da7874033406f25f86df07b88ff) on 2021-03-09
 - [Python start-up file](https://gist.github.com/codeinthehole/caafd18ecf215b8113ffea167c78dc28) on 2020-12-30
-- [analyse_codebase.sh](https://gist.github.com/codeinthehole/0fff5ec1dfb29f7085d7a2d6d3feca05) on 2020-09-17
+- [Analyse the changes in a repo over the last year](https://gist.github.com/codeinthehole/0fff5ec1dfb29f7085d7a2d6d3feca05) on 2020-09-17
 - [Bash script to find unused custom template tags and filters](https://gist.github.com/codeinthehole/ff9cd1a7eb9d29fb15a1b862ff665ebf) on 2020-02-04
 - [Sample test module for validating the commits messages on a PR branch](https://gist.github.com/codeinthehole/10e79178066c656425c6eb8a2b229cc5) on 2019-10-11
 - [~/.vimrc](https://gist.github.com/codeinthehole/7892be95ad152b621f3b62a6a3df0fc9) on 2018-09-18
