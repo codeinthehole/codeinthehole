@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to join an array in Bash](https://til.codeinthehole.com/posts/how-to-join-an-array-in-bash/) on 2022-03-29
 - [Docker for Mac stores all containers and images in a single disk image](https://til.codeinthehole.com/posts/docker-for-mac-stores-all-containers-and-images-in-a-single-disk-image/) on 2022-03-09
 - [How to inspect and clear Python's `functools.lru_cache`](https://til.codeinthehole.com/posts/how-to-inspect-and-clear-pythons-functoolslrucache/) on 2022-02-21
 - [How to get Vale to work with Vim's Ale plugin](https://til.codeinthehole.com/posts/how-to-get-vale-to-work-with-vims-ale-plugin/) on 2022-02-20
@@ -22,7 +23,6 @@ I learnt...
 - [About Factory Boy's `SelfAttribute` class](https://til.codeinthehole.com/posts/about-factory-boys-selfattribute-class/) on 2022-02-16
 - [You can search for Loggly mapping conflicts](https://til.codeinthehole.com/posts/you-can-search-for-loggly-mapping-conflicts/) on 2022-02-10
 - [About Github's `involves:$username` search filter](https://til.codeinthehole.com/posts/about-githubs-involves-search-filter/) on 2022-02-02
-- [You can't use Django's generic foreign key field with objects stored in a separate database](https://til.codeinthehole.com/posts/you-cant-use-djangos-generic-foreign-key-field-with-objects-stored-in-a-separate-database/) on 2022-02-02
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
