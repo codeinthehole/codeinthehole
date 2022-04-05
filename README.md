@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to use look-behind regex assertions with ripgrep](https://til.codeinthehole.com/posts/how-to-use-lookbehind-regex-assertions-with-ripgrep/) on 2022-04-05
 - [How to join an array in Bash](https://til.codeinthehole.com/posts/how-to-join-an-array-in-bash/) on 2022-03-29
 - [Docker for Mac stores all containers and images in a single disk image](https://til.codeinthehole.com/posts/docker-for-mac-stores-all-containers-and-images-in-a-single-disk-image/) on 2022-03-09
 - [How to inspect and clear Python's `functools.lru_cache`](https://til.codeinthehole.com/posts/how-to-inspect-and-clear-pythons-functoolslrucache/) on 2022-02-21
@@ -22,7 +23,6 @@ I learnt...
 - [How to use `markdownlint` output in Vim's quickfix list](https://til.codeinthehole.com/posts/how-to-use-markdownlint-output-in-vims-quickfix-list/) on 2022-02-16
 - [About Factory Boy's `SelfAttribute` class](https://til.codeinthehole.com/posts/about-factory-boys-selfattribute-class/) on 2022-02-16
 - [You can search for Loggly mapping conflicts](https://til.codeinthehole.com/posts/you-can-search-for-loggly-mapping-conflicts/) on 2022-02-10
-- [About Github's `involves:$username` search filter](https://til.codeinthehole.com/posts/about-githubs-involves-search-filter/) on 2022-02-02
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
