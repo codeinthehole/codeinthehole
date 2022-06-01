@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [That Python's `datetime` package doesn't support ordinal suffixes for the day of the month](https://til.codeinthehole.com/posts/that-pythons-datetime-package-doesnt-support-ordinal-suffixes-for-the-day-of-the-month/) on 2022-06-01
 - [Some Markdown parsers support definition lists](https://til.codeinthehole.com/posts/some-markdown-parsers-support-definition-lists/) on 2022-06-01
 - [`dprint` can be used to speed up Prettier](https://til.codeinthehole.com/posts/dprint-can-be-used-to-speed-up-prettier/) on 2022-04-27
 - [How to use look-behind regex assertions with ripgrep](https://til.codeinthehole.com/posts/how-to-use-lookbehind-regex-assertions-with-ripgrep/) on 2022-04-05
@@ -22,7 +23,6 @@ I learnt...
 - [Docker for Mac stores all containers and images in a single disk image](https://til.codeinthehole.com/posts/docker-for-mac-stores-all-containers-and-images-in-a-single-disk-image/) on 2022-03-09
 - [How to inspect and clear Python's `functools.lru_cache`](https://til.codeinthehole.com/posts/how-to-inspect-and-clear-pythons-functoolslrucache/) on 2022-02-21
 - [How to get Vale to work with Vim's Ale plugin](https://til.codeinthehole.com/posts/how-to-get-vale-to-work-with-vims-ale-plugin/) on 2022-02-20
-- [How to use `markdownlint` output in Vim's quickfix list](https://til.codeinthehole.com/posts/how-to-use-markdownlint-output-in-vims-quickfix-list/) on 2022-02-16
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
