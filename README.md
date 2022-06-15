@@ -26,6 +26,7 @@ I learnt...
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
+- [Google Apps Script for building a CSV report from Gmail threads](https://gist.github.com/codeinthehole/488f3cb403c55ff62f51526ae252b8e8) on 2022-06-15
 - [Correctly wrap JSON front-matter in markdown files](https://gist.github.com/codeinthehole/7aa7c4100a7af8ec61bed3130171a97d) on 2022-03-03
 - [Open Github pull request list page filtered to closed PRs from the last week from a given team](https://gist.github.com/codeinthehole/302d4c42c782c8ef212d6e8295af73c1) on 2022-02-02
 - [Python testing reference](https://gist.github.com/codeinthehole/9193c53f16371ec38cebc97aa1abf987) on 2021-03-19
@@ -33,6 +34,5 @@ I learnt...
 - [Python start-up file](https://gist.github.com/codeinthehole/caafd18ecf215b8113ffea167c78dc28) on 2020-12-30
 - [Analyse the changes in a repo over the last year](https://gist.github.com/codeinthehole/0fff5ec1dfb29f7085d7a2d6d3feca05) on 2020-09-17
 - [Bash script to find unused custom template tags and filters](https://gist.github.com/codeinthehole/ff9cd1a7eb9d29fb15a1b862ff665ebf) on 2020-02-04
-- [Sample test module for validating the commits messages on a PR branch](https://gist.github.com/codeinthehole/10e79178066c656425c6eb8a2b229cc5) on 2019-10-11
 
 [Browse all public Gists](https://gist.github.com/codeinthehole)
