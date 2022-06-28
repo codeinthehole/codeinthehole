@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to use `xmllint` to extract the failing test filenames from a JUnit-XML file](https://til.codeinthehole.com/posts/how-to-use-xmllint-to-extract-the-failing-test-filenames-from-a-junitxml-file/) on 2022-06-28
 - [How to override Django's settings for every method in a test class](https://til.codeinthehole.com/posts/how-to-override-django-settings-for-every-method-in-a-test-class/) on 2022-06-27
 - [How to profile Pytest tests](https://til.codeinthehole.com/posts/how-to-profile-pytest-tests/) on 2022-06-23
 - [That Python's `datetime` package doesn't support ordinal suffixes for the day of the month](https://til.codeinthehole.com/posts/that-pythons-datetime-package-doesnt-support-ordinal-suffixes-for-the-day-of-the-month/) on 2022-06-01
@@ -22,7 +23,6 @@ I learnt...
 - [`dprint` can be used to speed up Prettier](https://til.codeinthehole.com/posts/dprint-can-be-used-to-speed-up-prettier/) on 2022-04-27
 - [How to use look-behind regex assertions with ripgrep](https://til.codeinthehole.com/posts/how-to-use-lookbehind-regex-assertions-with-ripgrep/) on 2022-04-05
 - [How to join an array in Bash](https://til.codeinthehole.com/posts/how-to-join-an-array-in-bash/) on 2022-03-29
-- [Docker for Mac stores all containers and images in a single disk image](https://til.codeinthehole.com/posts/docker-for-mac-stores-all-containers-and-images-in-a-single-disk-image/) on 2022-03-09
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
