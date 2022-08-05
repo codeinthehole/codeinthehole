@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to create an RST table of contents for the current page only](https://til.codeinthehole.com/posts/how-to-create-an-rst-table-of-contents-for-the-sections-of-the-current-page/) on 2022-08-05
 - [Email Log Search in Google Workspace has some strange behaviour](https://til.codeinthehole.com/posts/email-log-search-in-google-workspace-has-some-strange-behaviour/) on 2022-07-20
 - [About `pycon` markdown format](https://til.codeinthehole.com/posts/about-pycon-markdown-format/) on 2022-07-01
 - [How to use `xmllint` to extract the failing test filenames from a JUnit-XML file](https://til.codeinthehole.com/posts/how-to-use-xmllint-to-extract-the-failing-test-filenames-from-a-junitxml-file/) on 2022-06-28
@@ -22,7 +23,6 @@ I learnt...
 - [How to profile Pytest tests](https://til.codeinthehole.com/posts/how-to-profile-pytest-tests/) on 2022-06-23
 - [That Python's `datetime` package doesn't support ordinal suffixes for the day of the month](https://til.codeinthehole.com/posts/that-pythons-datetime-package-doesnt-support-ordinal-suffixes-for-the-day-of-the-month/) on 2022-06-01
 - [Some Markdown parsers support definition lists](https://til.codeinthehole.com/posts/some-markdown-parsers-support-definition-lists/) on 2022-06-01
-- [`dprint` can be used to speed up Prettier](https://til.codeinthehole.com/posts/dprint-can-be-used-to-speed-up-prettier/) on 2022-04-27
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
