@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [You can search Slack by emoji reactions](https://til.codeinthehole.com/posts/you-can-search-slack-by-emoji-reactions/) on 2022-10-04
 - [Python tests using `moto` should be explicit about AWS regions](https://til.codeinthehole.com/posts/python-tests-using-moto-should-be-explicit-about-aws-regions/) on 2022-10-04
 - [`which` behaves diffferently in Zsh compared to Bash](https://til.codeinthehole.com/posts/which-behaves-diffferently-in-zsh-compared-to-bash/) on 2022-09-29
 - [AWS target groups fail open when all instances are unhealthy](https://til.codeinthehole.com/posts/aws-target-groups-fail-open-when-all-instances-are-unhealthy/) on 2022-09-24
@@ -22,7 +23,6 @@ I learnt...
 - [It's better to explicitly chain Python exceptions](https://til.codeinthehole.com/posts/its-better-to-explicitly-chain-exceptions/) on 2022-09-12
 - [About indirect parametrization with Pytest](https://til.codeinthehole.com/posts/about-indirect-parametrization-with-pytest/) on 2022-08-24
 - [That Ubuntu's `retry` command captures STDOUT](https://til.codeinthehole.com/posts/that-retry-captures-stdout/) on 2022-08-18
-- [How to create an RST table of contents for the current page only](https://til.codeinthehole.com/posts/how-to-create-an-rst-table-of-contents-for-the-sections-of-the-current-page/) on 2022-08-05
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
