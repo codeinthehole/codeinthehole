@@ -3,6 +3,7 @@ I'm the Head of Software Engineering at [Octopus Energy](https://octopus.energy/
 
 I used to maintain several open-source projects but I do less open-source work these days. I'm the original author of [`django-oscar`](https://github.com/django-oscar/django-oscar) although I'm not active in the project any more. 
 ## Latest blog posts
+- [OpenAI Git poetry](https://codeinthehole.com/tidbits/openai-git-poetry/) - 2022-11-11
 - ["It was the system. We can't change it."](https://codeinthehole.com/tidbits/the-bone-clocks/) - 2022-10-30
 - [Auditing 1Password activity](https://codeinthehole.com/tips/auditing-1password-activity/) - 2022-06-29
 - [Flakey tests in a large Python/Django codebase](https://codeinthehole.com/news/oe-tech-flakey-tests/) - 2022-06-08
@@ -10,7 +11,6 @@ I used to maintain several open-source projects but I do less open-source work t
 - [Vim's useful lists](https://codeinthehole.com/tips/vim-lists/) - 2021-05-03
 - [A Vim mapping for opening virtualenv files](https://codeinthehole.com/tips/a-vim-mapping-for-opening-virtualenv-files/) - 2020-11-16
 - [Setting up a 2020 MacBook Pro for Python development](https://codeinthehole.com/guides/settings-up-a-2020-macbook-for-python-development/) - 2020-07-18
-- [Conditional nested blocks in Terraform](https://codeinthehole.com/tips/conditional-nested-blocks-in-terraform/) - 2020-07-14
 
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
