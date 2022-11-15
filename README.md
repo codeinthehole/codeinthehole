@@ -26,6 +26,7 @@ I learnt...
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
+- [Use OpenAI's GPT3 model to generate pull request descriptions.](https://gist.github.com/codeinthehole/85c86268b76f4338d7d40188e84378a6) on 2022-11-15
 - [Bash script for listing the users who have access to a 1Password item](https://gist.github.com/codeinthehole/d6b35b56ad17d9f165f86d102caf0cd7) on 2022-06-29
 - [Google Apps Script for building a CSV report from Gmail threads](https://gist.github.com/codeinthehole/488f3cb403c55ff62f51526ae252b8e8) on 2022-06-15
 - [Correctly wrap JSON front-matter in markdown files](https://gist.github.com/codeinthehole/7aa7c4100a7af8ec61bed3130171a97d) on 2022-03-03
@@ -33,6 +34,5 @@ I learnt...
 - [Python testing reference](https://gist.github.com/codeinthehole/9193c53f16371ec38cebc97aa1abf987) on 2021-03-19
 - [A Python unit test that demonstrates the problem with Django's `make_aware` function](https://gist.github.com/codeinthehole/1ac10da7874033406f25f86df07b88ff) on 2021-03-09
 - [Python start-up file](https://gist.github.com/codeinthehole/caafd18ecf215b8113ffea167c78dc28) on 2020-12-30
-- [Analyse the changes in a repo over the last year](https://gist.github.com/codeinthehole/0fff5ec1dfb29f7085d7a2d6d3feca05) on 2020-09-17
 
 [Browse all public Gists](https://gist.github.com/codeinthehole)
