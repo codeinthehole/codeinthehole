@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [Django's JSON encoder rounds `datetime`s down to the nearest millisecond](https://til.codeinthehole.com/posts/djangos-json-encoder-rounds-datetimes-down-to-the-nearest-millisecond/) on 2022-12-01
 - [How to handle convenience imports with Mypy](https://til.codeinthehole.com/posts/how-to-handle-convenience-imports-with-mypy/) on 2022-11-23
 - [You can use JQ to build JSON payloads](https://til.codeinthehole.com/posts/you-can-use-jq-to-build-json-payloads/) on 2022-11-18
 - [How Django's `override_settings` decorator causes flakey tests](https://til.codeinthehole.com/posts/how-djangos-overridesettings-decorator-causes-flakey-tests/) on 2022-11-13
@@ -22,7 +23,6 @@ I learnt...
 - [That Postgres sequences aren't restored after a transaction rollback](https://til.codeinthehole.com/posts/that-postgres-sequences-arent-restored-after-a-rollback/) on 2022-10-18
 - [Mypy skips empty functions](https://til.codeinthehole.com/posts/mypy-skips-empty-functions/) on 2022-10-11
 - [How to use STDIN to populate Vim's quickfix list](https://til.codeinthehole.com/posts/how-to-use-stdin-to-populate-vims-quickfix-list/) on 2022-10-05
-- [You can search Slack by emoji reactions](https://til.codeinthehole.com/posts/you-can-search-slack-by-emoji-reactions/) on 2022-10-04
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
