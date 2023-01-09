@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [A better technique for roasting chicken](https://til.codeinthehole.com/posts/a-better-technique-for-cooking-roast-chicken/) on 2023-01-09
 - [How to automatically disable Github Copilot in Vim when editing large files](https://til.codeinthehole.com/posts/how-to-automatically-disable-github-copilot-in-vim-when-editing-large-files/) on 2023-01-06
 - [How to format JSON into a table with `jq` and `column`](https://til.codeinthehole.com/posts/how-to-format-json-into-a-table-with-jq-and-column/) on 2023-01-05
 - [How to make Homebrew-installed Bash your default shell](https://til.codeinthehole.com/posts/how-to-make-homebrewinstalled-bash-your-default-shell/) on 2022-12-19
@@ -22,7 +23,6 @@ I learnt...
 - [Django's JSON encoder rounds `datetime`s down to the nearest millisecond](https://til.codeinthehole.com/posts/djangos-json-encoder-rounds-datetimes-down-to-the-nearest-millisecond/) on 2022-12-01
 - [How to handle convenience imports with Mypy](https://til.codeinthehole.com/posts/how-to-handle-convenience-imports-with-mypy/) on 2022-11-23
 - [You can use JQ to build JSON payloads](https://til.codeinthehole.com/posts/you-can-use-jq-to-build-json-payloads/) on 2022-11-18
-- [How Django's `override_settings` decorator causes flakey tests](https://til.codeinthehole.com/posts/how-djangos-overridesettings-decorator-causes-flakey-tests/) on 2022-11-13
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
