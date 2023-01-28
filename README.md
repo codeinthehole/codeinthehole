@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [Not to union Python list types](https://til.codeinthehole.com/posts/not-to-union-python-list-types/) on 2023-01-28
 - [How to show the history of a file with `git log --patch`](https://til.codeinthehole.com/posts/how-to-show-the-history-of-a-file-with-git-log-patch/) on 2023-01-11
 - [A better technique for roasting chicken](https://til.codeinthehole.com/posts/a-better-technique-for-cooking-roast-chicken/) on 2023-01-09
 - [How to automatically disable Github Copilot in Vim when editing large files](https://til.codeinthehole.com/posts/how-to-automatically-disable-github-copilot-in-vim-when-editing-large-files/) on 2023-01-06
@@ -22,7 +23,6 @@ I learnt...
 - [How to make Homebrew-installed Bash your default shell](https://til.codeinthehole.com/posts/how-to-make-homebrewinstalled-bash-your-default-shell/) on 2022-12-19
 - [That `hub` clashes with `vim-polyglot`](https://til.codeinthehole.com/posts/that-hub-clashes-with-vimpolyglot/) on 2022-12-16
 - [Django's JSON encoder rounds `datetime`s down to the nearest millisecond](https://til.codeinthehole.com/posts/djangos-json-encoder-rounds-datetimes-down-to-the-nearest-millisecond/) on 2022-12-01
-- [How to handle convenience imports with Mypy](https://til.codeinthehole.com/posts/how-to-handle-convenience-imports-with-mypy/) on 2022-11-23
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
