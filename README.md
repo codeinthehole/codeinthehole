@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to create a word cloud from text piped via STDIN](https://til.codeinthehole.com/posts/how-to-create-a-word-cloud-from-text-piped-via-stdin/) on 2023-03-01
 - [About the `typos` source code spell checker](https://til.codeinthehole.com/posts/about-the-typos-source-code-spell-checker/) on 2023-02-22
 - [How to perform a non-interactive, interactive Git rebase](https://til.codeinthehole.com/posts/how-to-perform-a-noninteractive-interactive-git-rebase/) on 2023-02-15
 - [How to write Vimscript functions that operate on a visually selected area](https://til.codeinthehole.com/posts/how-to-write-vimscript-functions-that-operate-on-a-visually-selected-area/) on 2023-01-28
@@ -22,7 +23,6 @@ I learnt...
 - [How to show the history of a file with `git log --patch`](https://til.codeinthehole.com/posts/how-to-show-the-history-of-a-file-with-git-log-patch/) on 2023-01-11
 - [A better technique for roasting chicken](https://til.codeinthehole.com/posts/a-better-technique-for-cooking-roast-chicken/) on 2023-01-09
 - [How to automatically disable Github Copilot in Vim when editing large files](https://til.codeinthehole.com/posts/how-to-automatically-disable-github-copilot-in-vim-when-editing-large-files/) on 2023-01-06
-- [How to format JSON into a table with `jq` and `column`](https://til.codeinthehole.com/posts/how-to-format-json-into-a-table-with-jq-and-column/) on 2023-01-05
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
