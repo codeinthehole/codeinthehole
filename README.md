@@ -15,14 +15,14 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [That macOS Ventura and iOS 15 can play background rain noise](https://til.codeinthehole.com/posts/that-macos-ventura-and-ios-15-can-play-background-rain-noise/) on 2023-04-28
+- [That `git for-each-ref` support conditional logic in its format](https://til.codeinthehole.com/posts/that-git-foreachref-support-conditional-logic-in-its-format/) on 2023-04-28
 - [Github actions need a shell specified to avoid silent pipeline failures](https://til.codeinthehole.com/posts/github-actions-need-a-shell-specified-to-avoid-silent-pipeline-failures/) on 2023-04-19
 - [How to use `ripgrep` in `while read` loops](https://til.codeinthehole.com/posts/how-to-use-ripgrep-in-while-read-loops/) on 2023-03-03
 - [How to create a word cloud from text piped via STDIN](https://til.codeinthehole.com/posts/how-to-create-a-word-cloud-from-text-piped-via-stdin/) on 2023-03-01
 - [About the `typos` source code spell checker](https://til.codeinthehole.com/posts/about-the-typos-source-code-spell-checker/) on 2023-02-22
 - [How to perform a non-interactive, interactive Git rebase](https://til.codeinthehole.com/posts/how-to-perform-a-noninteractive-interactive-git-rebase/) on 2023-02-15
 - [How to write Vimscript functions that operate on a visually selected area](https://til.codeinthehole.com/posts/how-to-write-vimscript-functions-that-operate-on-a-visually-selected-area/) on 2023-01-28
-- [Not to union Python list types](https://til.codeinthehole.com/posts/not-to-union-python-list-types/) on 2023-01-28
-- [How to show the history of a file with `git log --patch`](https://til.codeinthehole.com/posts/how-to-show-the-history-of-a-file-with-git-log-patch/) on 2023-01-11
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
