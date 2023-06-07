@@ -3,7 +3,7 @@ I'm the Head of Software Engineering at [Octopus Energy](https://octopus.energy/
 
 I used to maintain several open-source projects but I do less open-source work these days. I'm the original author of [`django-oscar`](https://github.com/django-oscar/django-oscar) although I'm not active in the project any more. 
 ## Latest blog posts
-- [Writing Markdown in Vim](https://codeinthehole.com/tips/writing-markdown-in-vim/) - 2023-05-18
+- [Writing Markdown in Vim](https://codeinthehole.com/tips/writing-markdown-in-vim/) - 2023-06-06
 - [Tips for using Github Copilot in Vim](https://codeinthehole.com/tips/vim-and-github-copilot/) - 2023-01-06
 - [Creating pull requests with GPT3 and random artwork](https://codeinthehole.com/projects/pull-requests-with-gpt3-and-random-artwork/) - 2022-12-22
 - [New project: Food price scraper](https://codeinthehole.com/projects/food-scraper/) - 2022-11-12
