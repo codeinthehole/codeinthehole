@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [That Vimium has shortcuts for following pagination links](https://til.codeinthehole.com/posts/that-vimium-has-shortcuts-for-following-pagination-links/) on 2023-06-21
 - [How to avoid committing Jupyter Notebook output to Git](https://til.codeinthehole.com/posts/how-to-avoid-committing-jupyter-notebook-output-to-git/) on 2023-06-09
 - [You can search Slack by custom channel section](https://til.codeinthehole.com/posts/you-can-search-slack-by-custom-channel-section/) on 2023-06-05
 - [How to set per-role statement timeouts in Postgres](https://til.codeinthehole.com/posts/how-to-set-perrole-statement-timeouts-in-postgres/) on 2023-05-09
@@ -22,7 +23,6 @@ I learnt...
 - [That `git for-each-ref` support conditional logic in its format](https://til.codeinthehole.com/posts/that-git-foreachref-support-conditional-logic-in-its-format/) on 2023-04-28
 - [Github actions need a shell specified to avoid silent pipeline failures](https://til.codeinthehole.com/posts/github-actions-need-a-shell-specified-to-avoid-silent-pipeline-failures/) on 2023-04-19
 - [How to use `ripgrep` in `while read` loops](https://til.codeinthehole.com/posts/how-to-use-ripgrep-in-while-read-loops/) on 2023-03-03
-- [How to create a word cloud from text piped via STDIN](https://til.codeinthehole.com/posts/how-to-create-a-word-cloud-from-text-piped-via-stdin/) on 2023-03-01
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
