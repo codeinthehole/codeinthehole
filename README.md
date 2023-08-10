@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to use `jq` to only parse valid JSON lines](https://til.codeinthehole.com/posts/how-to-use-jq-to-only-parse-valid-json-lines/) on 2023-08-10
 - [How to get uWSGI's `log-route` to support regular expressions](https://til.codeinthehole.com/posts/how-to-get-uwsgis-logroute-to-support-regular-expressions/) on 2023-07-28
 - [How to syntax-highlight kubectl YAML output](https://til.codeinthehole.com/posts/how-to-syntaxhighlight-kubectl-yaml-output/) on 2023-07-26
 - [That two trailing spaces indicates a line break in Markdown](https://til.codeinthehole.com/posts/that-two-trailing-spaces-indicates-a-line-break-in-markdown/) on 2023-07-01
@@ -22,7 +23,6 @@ I learnt...
 - [How to avoid committing Jupyter Notebook output to Git](https://til.codeinthehole.com/posts/how-to-avoid-committing-jupyter-notebook-output-to-git/) on 2023-06-09
 - [You can search Slack by custom channel section](https://til.codeinthehole.com/posts/you-can-search-slack-by-custom-channel-section/) on 2023-06-05
 - [How to set per-role statement timeouts in Postgres](https://til.codeinthehole.com/posts/how-to-set-perrole-statement-timeouts-in-postgres/) on 2023-05-09
-- [That macOS Ventura and iOS 15 can play background rain noise](https://til.codeinthehole.com/posts/that-macos-ventura-and-ios-15-can-play-background-rain-noise/) on 2023-04-28
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
