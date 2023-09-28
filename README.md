@@ -26,6 +26,7 @@ I learnt...
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
+- [Alfred workflow script for converting numbers to durations](https://gist.github.com/codeinthehole/e2ab6cde6a5d4d133afd224b7226068a) on 2023-09-28
 - [A Bash script that uses OpenAI's API to generate a pull request title](https://gist.github.com/codeinthehole/d6a496b5a11e7500b7dd0c20f3e5b48c) on 2022-12-23
 - [A Python script that generates a pull request body](https://gist.github.com/codeinthehole/3fc29fc6f1d9e0d9224e97762ff3537a) on 2022-12-23
 - [Use OpenAI's GPT3 model to generate pull request descriptions.](https://gist.github.com/codeinthehole/85c86268b76f4338d7d40188e84378a6) on 2022-11-15
@@ -33,6 +34,5 @@ I learnt...
 - [Google Apps Script for building a CSV report from Gmail threads](https://gist.github.com/codeinthehole/488f3cb403c55ff62f51526ae252b8e8) on 2022-06-15
 - [Correctly wrap JSON front-matter in markdown files](https://gist.github.com/codeinthehole/7aa7c4100a7af8ec61bed3130171a97d) on 2022-03-03
 - [Open Github pull request list page filtered to closed PRs from the last week from a given team](https://gist.github.com/codeinthehole/302d4c42c782c8ef212d6e8295af73c1) on 2022-02-02
-- [Python testing reference](https://gist.github.com/codeinthehole/9193c53f16371ec38cebc97aa1abf987) on 2021-03-19
 
 [Browse all public Gists](https://gist.github.com/codeinthehole)
