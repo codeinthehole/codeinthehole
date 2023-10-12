@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [Github supports a Markdown extension for creating alert blocks](https://til.codeinthehole.com/posts/github-supports-a-markdown-extension-for-creating-alert-blocks/) on 2023-10-12
 - [How to avoid version conflicts in lock files compiled with `pip-tools`](https://til.codeinthehole.com/posts/how-to-avoid-version-conflicts-in-lock-files-compiled-with-piptools/) on 2023-10-02
 - [How to run Google sites as standalone MacOS apps that Alfred can start](https://til.codeinthehole.com/posts/how-to-run-google-sites-as-standalone-macos-apps-that-alfred-can-start/) on 2023-09-22
 - [How to get Gunicorn to log as JSON](https://til.codeinthehole.com/posts/how-to-get-gunicorn-to-log-as-json/) on 2023-09-11
@@ -22,7 +23,6 @@ I learnt...
 - [How to get uWSGI's `log-route` to support regular expressions](https://til.codeinthehole.com/posts/how-to-get-uwsgis-logroute-to-support-regular-expressions/) on 2023-07-28
 - [How to syntax-highlight kubectl YAML output](https://til.codeinthehole.com/posts/how-to-syntaxhighlight-kubectl-yaml-output/) on 2023-07-26
 - [That two trailing spaces indicates a line break in Markdown](https://til.codeinthehole.com/posts/that-two-trailing-spaces-indicates-a-line-break-in-markdown/) on 2023-07-01
-- [That Vimium has shortcuts for following pagination links](https://til.codeinthehole.com/posts/that-vimium-has-shortcuts-for-following-pagination-links/) on 2023-06-21
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
