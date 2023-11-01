@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [That `~/.psqlrc` options can override command-line options](https://til.codeinthehole.com/posts/that-psqlrc-options-can-override-commandline-options/) on 2023-11-01
 - [How to use JavaScript to control MacOS](https://til.codeinthehole.com/posts/how-to-use-javascript-to-control-macos/) on 2023-10-12
 - [Github supports a Markdown extension for creating alert blocks](https://til.codeinthehole.com/posts/github-supports-a-markdown-extension-for-creating-alert-blocks/) on 2023-10-12
 - [How to avoid version conflicts in lock files compiled with `pip-tools`](https://til.codeinthehole.com/posts/how-to-avoid-version-conflicts-in-lock-files-compiled-with-piptools/) on 2023-10-02
@@ -22,7 +23,6 @@ I learnt...
 - [How to get Gunicorn to log as JSON](https://til.codeinthehole.com/posts/how-to-get-gunicorn-to-log-as-json/) on 2023-09-11
 - [How to use `jq` to only parse valid JSON lines](https://til.codeinthehole.com/posts/how-to-use-jq-to-only-parse-valid-json-lines/) on 2023-08-10
 - [How to get uWSGI's `log-route` to support regular expressions](https://til.codeinthehole.com/posts/how-to-get-uwsgis-logroute-to-support-regular-expressions/) on 2023-07-28
-- [How to syntax-highlight kubectl YAML output](https://til.codeinthehole.com/posts/how-to-syntaxhighlight-kubectl-yaml-output/) on 2023-07-26
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
