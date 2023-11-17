@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How `pipx` chooses which Python to install a package with](https://til.codeinthehole.com/posts/how-pipx-choose-which-python-to-install-a-package-with/) on 2023-11-17
 - [About Bash's `$PIPESTATUS` variable](https://til.codeinthehole.com/posts/about-bashs-pipestatus-variable/) on 2023-11-07
 - [That `~/.psqlrc` options can override command-line options](https://til.codeinthehole.com/posts/that-psqlrc-options-can-override-commandline-options/) on 2023-11-01
 - [How to use JavaScript to control MacOS](https://til.codeinthehole.com/posts/how-to-use-javascript-to-control-macos/) on 2023-10-12
@@ -22,7 +23,6 @@ I learnt...
 - [How to avoid version conflicts in lock files compiled with `pip-tools`](https://til.codeinthehole.com/posts/how-to-avoid-version-conflicts-in-lock-files-compiled-with-piptools/) on 2023-10-02
 - [How to run Google sites as standalone MacOS apps that Alfred can start](https://til.codeinthehole.com/posts/how-to-run-google-sites-as-standalone-macos-apps-that-alfred-can-start/) on 2023-09-22
 - [How to get Gunicorn to log as JSON](https://til.codeinthehole.com/posts/how-to-get-gunicorn-to-log-as-json/) on 2023-09-11
-- [How to use `jq` to only parse valid JSON lines](https://til.codeinthehole.com/posts/how-to-use-jq-to-only-parse-valid-json-lines/) on 2023-08-10
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
