@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to create custom replacements for `vim-surround`](https://til.codeinthehole.com/posts/how-to-create-custom-replacements-for-vimsurround/) on 2023-11-27
 - [How to make the MacOS app switcher appear on all displays](https://til.codeinthehole.com/posts/how-to-make-the-macos-app-switcher-appear-on-all-displays/) on 2023-11-20
 - [How `pipx` chooses which Python to install a package with](https://til.codeinthehole.com/posts/how-pipx-choose-which-python-to-install-a-package-with/) on 2023-11-17
 - [About Bash's `$PIPESTATUS` variable](https://til.codeinthehole.com/posts/about-bashs-pipestatus-variable/) on 2023-11-07
@@ -22,7 +23,6 @@ I learnt...
 - [How to use JavaScript to control MacOS](https://til.codeinthehole.com/posts/how-to-use-javascript-to-control-macos/) on 2023-10-12
 - [Github supports a Markdown extension for creating alert blocks](https://til.codeinthehole.com/posts/github-supports-a-markdown-extension-for-creating-alert-blocks/) on 2023-10-12
 - [How to avoid version conflicts in lock files compiled with `pip-tools`](https://til.codeinthehole.com/posts/how-to-avoid-version-conflicts-in-lock-files-compiled-with-piptools/) on 2023-10-02
-- [How to run Google sites as standalone MacOS apps that Alfred can start](https://til.codeinthehole.com/posts/how-to-run-google-sites-as-standalone-macos-apps-that-alfred-can-start/) on 2023-09-22
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
