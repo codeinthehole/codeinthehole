@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [That Mypy can generate coverage reports](https://til.codeinthehole.com/posts/that-mypy-can-generate-coverage-reports/) on 2024-05-04
 - [How to install a vendored wheel when using `pip-tools` and `pyproject.toml`](https://til.codeinthehole.com/posts/how-to-install-a-vendored-wheel-when-using-piptools-and-pyprojecttoml/) on 2024-05-01
 - [How to edit and search the files in one commit](https://til.codeinthehole.com/posts/how-to-edit-and-search-the-files-in-one-commit/) on 2024-03-27
 - [You can run `ruff` on Jupyter notebooks](https://til.codeinthehole.com/posts/you-can-run-ruff-on-jupyter-notebooks/) on 2024-02-26
@@ -22,7 +23,6 @@ I learnt...
 - [How to create custom replacements for `vim-surround`](https://til.codeinthehole.com/posts/how-to-create-custom-replacements-for-vimsurround/) on 2023-11-27
 - [How to make the MacOS app switcher appear on all displays](https://til.codeinthehole.com/posts/how-to-make-the-macos-app-switcher-appear-on-all-displays/) on 2023-11-20
 - [How `pipx` chooses which Python to install a package with](https://til.codeinthehole.com/posts/how-pipx-choose-which-python-to-install-a-package-with/) on 2023-11-17
-- [About Bash's `$PIPESTATUS` variable](https://til.codeinthehole.com/posts/about-bashs-pipestatus-variable/) on 2023-11-07
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
