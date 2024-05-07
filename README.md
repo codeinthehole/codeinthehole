@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [Hugo v0.123.0 changed the default rendering mode of `hugo server`](https://til.codeinthehole.com/posts/hugo-v01230-changed-the-default-rendering-mode-of-hugo-server/) on 2024-05-07
 - [That Mypy can generate coverage reports](https://til.codeinthehole.com/posts/that-mypy-can-generate-coverage-reports/) on 2024-05-04
 - [How to install a vendored wheel when using `pip-tools` and `pyproject.toml`](https://til.codeinthehole.com/posts/how-to-install-a-vendored-wheel-when-using-piptools-and-pyprojecttoml/) on 2024-05-01
 - [How to edit and search the files in one commit](https://til.codeinthehole.com/posts/how-to-edit-and-search-the-files-in-one-commit/) on 2024-03-27
@@ -22,7 +23,6 @@ I learnt...
 - [How to bind custom keyboard shortcuts to nested MacOS menu options](https://til.codeinthehole.com/posts/how-to-bind-custom-keyboard-shortcuts-to-nested-macos-menu-options/) on 2024-01-31
 - [How to create custom replacements for `vim-surround`](https://til.codeinthehole.com/posts/how-to-create-custom-replacements-for-vimsurround/) on 2023-11-27
 - [How to make the MacOS app switcher appear on all displays](https://til.codeinthehole.com/posts/how-to-make-the-macos-app-switcher-appear-on-all-displays/) on 2023-11-20
-- [How `pipx` chooses which Python to install a package with](https://til.codeinthehole.com/posts/how-pipx-choose-which-python-to-install-a-package-with/) on 2023-11-17
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
