@@ -5,7 +5,7 @@ import feedparser
 def generate_readme_contents(*, blog_sitemap_url: str, til_sitemap_url: str, gists_url) -> str:
     contents: List[str] = [
         "## About me",
-        "I'm the Head of Software Engineering at [Octopus Energy](https://octopus.energy/).",
+        "I'm a Principal Engineer at [Kraken Technologies](https://kraken.tech/).",
         "",
         "I used to maintain several open-source projects but I do less open-source work these days. "
         "I'm the original author of [`django-oscar`](https://github.com/django-oscar/django-oscar) although I'm not active in the project any more. "
