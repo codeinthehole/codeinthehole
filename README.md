@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [About Bash's `compgen` built-in](https://til.codeinthehole.com/posts/about-bashs-compgen-builtin/) on 2024-05-10
 - [Hugo v0.123.0 changed the default rendering mode of `hugo server`](https://til.codeinthehole.com/posts/hugo-v01230-changed-the-default-rendering-mode-of-hugo-server/) on 2024-05-07
 - [That Mypy can generate coverage reports](https://til.codeinthehole.com/posts/that-mypy-can-generate-coverage-reports/) on 2024-05-04
 - [How to install a vendored wheel when using `pip-tools` and `pyproject.toml`](https://til.codeinthehole.com/posts/how-to-install-a-vendored-wheel-when-using-piptools-and-pyprojecttoml/) on 2024-05-01
@@ -22,7 +23,6 @@ I learnt...
 - [You can run `ruff` on Jupyter notebooks](https://til.codeinthehole.com/posts/you-can-run-ruff-on-jupyter-notebooks/) on 2024-02-26
 - [How to bind custom keyboard shortcuts to nested MacOS menu options](https://til.codeinthehole.com/posts/how-to-bind-custom-keyboard-shortcuts-to-nested-macos-menu-options/) on 2024-01-31
 - [How to create custom replacements for `vim-surround`](https://til.codeinthehole.com/posts/how-to-create-custom-replacements-for-vimsurround/) on 2023-11-27
-- [How to make the MacOS app switcher appear on all displays](https://til.codeinthehole.com/posts/how-to-make-the-macos-app-switcher-appear-on-all-displays/) on 2023-11-20
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
