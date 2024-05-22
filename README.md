@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [How to group Pandas dataframes by week correctly](https://til.codeinthehole.com/posts/how-to-group-pandas-dataframes-by-week-correctly/) on 2024-05-22
 - [How to set the default branch for a Git remote](https://til.codeinthehole.com/posts/how-to-set-the-default-branch-for-a-git-remote/) on 2024-05-10
 - [About Bash's `compgen` built-in](https://til.codeinthehole.com/posts/about-bashs-compgen-builtin/) on 2024-05-10
 - [Hugo v0.123.0 changed the default rendering mode of `hugo server`](https://til.codeinthehole.com/posts/hugo-v01230-changed-the-default-rendering-mode-of-hugo-server/) on 2024-05-07
@@ -22,7 +23,6 @@ I learnt...
 - [How to install a vendored wheel when using `pip-tools` and `pyproject.toml`](https://til.codeinthehole.com/posts/how-to-install-a-vendored-wheel-when-using-piptools-and-pyprojecttoml/) on 2024-05-01
 - [How to edit and search the files in one commit](https://til.codeinthehole.com/posts/how-to-edit-and-search-the-files-in-one-commit/) on 2024-03-27
 - [You can run `ruff` on Jupyter notebooks](https://til.codeinthehole.com/posts/you-can-run-ruff-on-jupyter-notebooks/) on 2024-02-26
-- [How to bind custom keyboard shortcuts to nested MacOS menu options](https://til.codeinthehole.com/posts/how-to-bind-custom-keyboard-shortcuts-to-nested-macos-menu-options/) on 2024-01-31
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
