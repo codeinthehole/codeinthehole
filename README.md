@@ -15,7 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
-- [How to configure the coloured output of `eza`](https://til.codeinthehole.com/posts/how-to-configured-the-coloured-output-of-eza/) on 2024-07-31
+- [How to configure the coloured output of `eza`](https://til.codeinthehole.com/posts/how-to-configure-the-coloured-output-of-eza/) on 2024-07-31
 - [How to use `llm` to act on visual selections in Vim](https://til.codeinthehole.com/posts/how-to-use-llm-to-act-on-visual-selections-in-vim/) on 2024-06-27
 - [How to measure codeowner coverage within a large repo](https://til.codeinthehole.com/posts/how-to-measure-codeowner-coverage-within-a-large-repo/) on 2024-06-24
 - [How to create a wrapping mock with custom behaviour](https://til.codeinthehole.com/posts/how-to-create-a-wrapping-mock-with-custom-behaviour/) on 2024-06-05
