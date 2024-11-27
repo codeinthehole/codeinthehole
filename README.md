@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [That `requests` supports automatic retries with exponential back-off](https://til.codeinthehole.com/posts/that-requests-supports-exponential-backoff/) on 2024-11-27
 - [How to add commit sizes to `git log` output](https://til.codeinthehole.com/posts/how-to-add-commit-sizes-to-git-log-output/) on 2024-08-05
 - [That wrapping Pytest fixtures with `time_machine` needs care](https://til.codeinthehole.com/posts/that-wrapping-pytest-fixtures-with-timemachine-needs-care/) on 2024-08-01
 - [How to configure the coloured output of `eza`](https://til.codeinthehole.com/posts/how-to-configure-the-coloured-output-of-eza/) on 2024-07-31
@@ -22,7 +23,6 @@ I learnt...
 - [How to measure codeowner coverage within a large repo](https://til.codeinthehole.com/posts/how-to-measure-codeowner-coverage-within-a-large-repo/) on 2024-06-24
 - [How to create a wrapping mock with custom behaviour](https://til.codeinthehole.com/posts/how-to-create-a-wrapping-mock-with-custom-behaviour/) on 2024-06-05
 - [That `time_machine` starts ticking after the first call](https://til.codeinthehole.com/posts/that-timemachine-package-starts-ticking-after-the-first-call/) on 2024-06-05
-- [How to group Pandas dataframes by week correctly](https://til.codeinthehole.com/posts/how-to-group-pandas-dataframes-by-week-correctly/) on 2024-05-22
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
