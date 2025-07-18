@@ -1,5 +1,5 @@
 ## About me
-I'm the Head of Software Engineering at [Octopus Energy](https://octopus.energy/).
+I'm a Principal Engineer at [Kraken Technologies](https://kraken.tech/).
 
 I used to maintain several open-source projects but I do less open-source work these days. I'm the original author of [`django-oscar`](https://github.com/django-oscar/django-oscar) although I'm not active in the project any more. 
 ## Latest blog posts
