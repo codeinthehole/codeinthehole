@@ -15,6 +15,7 @@ I used to maintain several open-source projects but I do less open-source work t
 [Browse all blog posts](https://codeinthehole.com/writing/)
 ## Latest TIL posts
 I learnt...
+- [That `head` and `HEAD` can resolve differently in added Git worktrees](https://til.codeinthehole.com/posts/the-head-and-head-can-resolve-differently-in-added-git-worktrees/) on 2025-09-02
 - [That `while read` loops ignore single line inputs (with no newline character)](https://til.codeinthehole.com/posts/that-while-read-loops-in-bash-dont-read-lines-with-no-new-line-character/) on 2025-07-15
 - [About Git's `range-diff` command](https://til.codeinthehole.com/posts/about-gits-rangediff-command/) on 2025-07-06
 - [How to run pre-commit using an interactive rebase](https://til.codeinthehole.com/posts/how-to-run-precommit-using-an-interactive-rebase/) on 2025-05-09
@@ -22,7 +23,6 @@ I learnt...
 - [That `requests` supports automatic retries with exponential back-off](https://til.codeinthehole.com/posts/that-requests-supports-exponential-backoff/) on 2024-11-27
 - [How to add commit sizes to `git log` output](https://til.codeinthehole.com/posts/how-to-add-commit-sizes-to-git-log-output/) on 2024-08-05
 - [That wrapping Pytest fixtures with `time_machine` needs care](https://til.codeinthehole.com/posts/that-wrapping-pytest-fixtures-with-timemachine-needs-care/) on 2024-08-01
-- [How to configure the coloured output of `eza`](https://til.codeinthehole.com/posts/how-to-configure-the-coloured-output-of-eza/) on 2024-07-31
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
