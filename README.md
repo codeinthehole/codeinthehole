@@ -26,6 +26,7 @@ I learnt...
 
 [Browse all TIL posts](https://til.codeinthehole.com)
 ## Latest Gists
+- [List 1Password items that a given user has access to](https://gist.github.com/codeinthehole/42543a27ef4a3074abbf3ba3a81c926e) on 2025-10-07
 - [List users with access to a given 1Password item.](https://gist.github.com/codeinthehole/74cbe00403a18559216590d38c213fc6) on 2025-07-22
 - [Bash script for checking local repositories for unpushed changes](https://gist.github.com/codeinthehole/eb39e5b2238aca79ca68d48ded32d599) on 2025-05-01
 - [A Bash script for running an iterative TDD loop using an LLM to make a set of tests pass](https://gist.github.com/codeinthehole/d12af317a76b43423b111fd6d508c4fc) on 2024-10-13
@@ -33,6 +34,5 @@ I learnt...
 - [A Python script to categorise a list of filepaths by code owners](https://gist.github.com/codeinthehole/a356d4fbf5b729c23b280dea6193340c) on 2024-07-09
 - [A `noxfile.py` for running matrix testing of a Python package](https://gist.github.com/codeinthehole/f6663121c3dca9177332505989b698af) on 2024-05-24
 - [Alfred workflow script for converting numbers to durations](https://gist.github.com/codeinthehole/e2ab6cde6a5d4d133afd224b7226068a) on 2023-09-28
-- [A Bash script that uses OpenAI's API to generate a pull request title](https://gist.github.com/codeinthehole/d6a496b5a11e7500b7dd0c20f3e5b48c) on 2022-12-23
 
 [Browse all public Gists](https://gist.github.com/codeinthehole)
